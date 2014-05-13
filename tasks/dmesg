@@ -1,0 +1,1885 @@
+[11969.384563] Nima-HSF [4297884643]==> in function <api_run>: start---------------------------.
+[11969.384595] Nima-HSF [0]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11969.384604] Nima-HSF [0]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11969.384605] Nima-HSF [0]==> in function <api_run>: end---------------------------.
+[11969.397210] Nima-HSF [3]==> in function <api_task_finish_job>: starts.
+[11969.397212] Nima-HSF [3]==> in function <api_task_finish_job>: task_exec = 1, 3.
+[11969.397215] Nima-HSF [3]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11969.397216] Nima-HSF [3]==> in function <api_task_finish_job>: ends.
+[11969.407706] Nima-HSF [5]==> in function <api_task_finish_job>: starts.
+[11969.407708] Nima-HSF [5]==> in function <api_task_finish_job>: task_exec = 1, 2.
+[11969.407711] Nima-HSF [5]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11969.407711] Nima-HSF [5]==> in function <api_task_finish_job>: ends.
+[11969.412874] Nima-HSF [7]==> in function <api_task_finish_job>: starts.
+[11969.412876] Nima-HSF [7]==> in function <api_task_finish_job>: task_exec = 1, 2.
+[11969.412877] Nima-HSF [7]==> in function <api_task_finish_job>: ends.
+[11969.419118] Nima-HSF [8]==> in function <api_task_finish_job>: starts.
+[11969.419121] Nima-HSF [8]==> in function <api_task_finish_job>: task_exec = 1, 8.
+[11969.419125] Nima-HSF [8]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11969.419126] Nima-HSF [8]==> in function <api_task_finish_job>: ends.
+[11969.430092] Nima-HSF [11]==> in function <api_task_finish_job>: starts.
+[11969.430096] Nima-HSF [11]==> in function <api_task_finish_job>: task_exec = 1, 3.
+[11969.430101] Nima-HSF [11]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11969.430101] Nima-HSF [11]==> in function <api_task_finish_job>: ends.
+[11969.435448] Nima-HSF [12]==> in function <api_task_finish_job>: starts.
+[11969.435450] Nima-HSF [12]==> in function <api_task_finish_job>: task_exec = 1, 1.
+[11969.435451] Nima-HSF [12]==> in function <api_task_finish_job>: ends.
+[11969.544871] Nima-HSF [40]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11969.544921] Nima-HSF [40]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11969.557568] Nima-HSF [43]==> in function <api_task_finish_job>: starts.
+[11969.557569] Nima-HSF [43]==> in function <api_task_finish_job>: task_exec = 2, 3.
+[11969.557571] Nima-HSF [43]==> in function <api_task_finish_job>: ends.
+[11969.564076] Nima-HSF [45]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11969.564090] Nima-HSF [45]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11969.564091] Nima-HSF [45]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11969.568145] Nima-HSF [46]==> in function <api_task_finish_job>: starts.
+[11969.568148] Nima-HSF [46]==> in function <api_task_finish_job>: task_exec = 1, 1.
+[11969.568150] Nima-HSF [46]==> in function <api_task_finish_job>: ends.
+[11969.584036] Nima-HSF [50]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11969.596505] Nima-HSF [53]==> in function <api_task_finish_job>: starts.
+[11969.596509] Nima-HSF [53]==> in function <api_task_finish_job>: task_exec = 2, 3.
+[11969.596510] Nima-HSF [53]==> in function <api_task_finish_job>: ends.
+[11969.604048] Nima-HSF [55]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11969.604051] Nima-HSF [55]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11969.616047] Nima-HSF [58]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11969.616072] Nima-HSF [58]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11969.744091] Nima-HSF [90]==> in function <server_release_handler>: start--------------------------- = 0.
+[11969.744114] Nima-HSF [90]==> in function <task_context_switch>: dl_miss.
+[11969.744115] Nima-HSF [90]==> in function <>: deadline is at at 80.
+[11969.744116] Nima-HSF [90]==> in function <>: now is at 90.
+[11969.744137] Nima-HSF [90]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11969.744152] Nima-HSF [90]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11969.744153] Nima-HSF [90]==> in function <server_release_handler>: start--------------------------- = 2.
+[11969.744161] Nima-HSF [90]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11969.744162] Nima-HSF [90]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11969.753126] Nima-HSF [92]==> in function <api_task_finish_job>: starts.
+[11969.753129] Nima-HSF [92]==> in function <api_task_finish_job>: task_exec = 3, 2.
+[11969.753130] Nima-HSF [92]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11969.753135] Nima-HSF [92]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11969.753136] Nima-HSF [92]==> in function <api_task_finish_job>: ends.
+[11969.757538] Nima-HSF [93]==> in function <api_task_finish_job>: starts.
+[11969.757540] Nima-HSF [93]==> in function <api_task_finish_job>: task_exec = 3, 3.
+[11969.757541] Nima-HSF [93]==> in function <api_task_finish_job>: ends.
+[11969.763475] Nima-HSF [94]==> in function <api_task_finish_job>: starts.
+[11969.763476] Nima-HSF [94]==> in function <api_task_finish_job>: task_exec = 2, 2.
+[11969.763479] Nima-HSF [94]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11969.763480] Nima-HSF [94]==> in function <api_task_finish_job>: ends.
+[11969.784048] Nima-HSF [100]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11969.784051] Nima-HSF [100]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11969.791251] Nima-HSF [101]==> in function <api_task_finish_job>: starts.
+[11969.791253] Nima-HSF [101]==> in function <api_task_finish_job>: task_exec = 3, 7.
+[11969.791255] Nima-HSF [101]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11969.791256] Nima-HSF [101]==> in function <api_task_finish_job>: ends.
+[11969.795482] Nima-HSF [102]==> in function <api_task_finish_job>: starts.
+[11969.795484] Nima-HSF [102]==> in function <api_task_finish_job>: task_exec = 3, 2.
+[11969.795486] Nima-HSF [102]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11969.795486] Nima-HSF [102]==> in function <api_task_finish_job>: ends.
+[11969.800863] Nima-HSF [104]==> in function <api_task_finish_job>: starts.
+[11969.800865] Nima-HSF [104]==> in function <api_task_finish_job>: task_exec = 2, 2.
+[11969.800866] Nima-HSF [104]==> in function <api_task_finish_job>: ends.
+[11969.801744] Nima-HSF [104]==> in function <api_task_finish_job>: starts.
+[11969.801746] Nima-HSF [104]==> in function <api_task_finish_job>: task_exec = 3, 3.
+[11969.801748] Nima-HSF [104]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11969.801749] Nima-HSF [104]==> in function <api_task_finish_job>: ends.
+[11969.807200] Nima-HSF [105]==> in function <api_task_finish_job>: starts.
+[11969.807203] Nima-HSF [105]==> in function <api_task_finish_job>: task_exec = 2, 1.
+[11969.807204] Nima-HSF [105]==> in function <api_task_finish_job>: ends.
+[11969.864064] Nima-HSF [120]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11969.864105] Nima-HSF [120]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11969.876704] Nima-HSF [123]==> in function <api_task_finish_job>: starts.
+[11969.876706] Nima-HSF [123]==> in function <api_task_finish_job>: task_exec = 4, 3.
+[11969.876707] Nima-HSF [123]==> in function <api_task_finish_job>: ends.
+[11969.903593] Nima-HSF [129]==> in function <api_task_finish_job>: starts.
+[11969.903597] Nima-HSF [129]==> in function <api_task_finish_job>: task_exec = 4, 9.
+[11969.903599] Nima-HSF [129]==> in function <api_task_finish_job>: ends.
+[11969.924073] Nima-HSF [135]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11969.924111] Nima-HSF [135]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11969.976099] Nima-HSF [148]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11969.976129] Nima-HSF [148]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11970.104089] Nima-HSF [180]==> in function <server_release_handler>: start--------------------------- = 0.
+[11970.104134] Nima-HSF [180]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11970.104148] Nima-HSF [180]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11970.104150] Nima-HSF [180]==> in function <server_release_handler>: start--------------------------- = 2.
+[11970.104157] Nima-HSF [180]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.104159] Nima-HSF [180]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11970.115278] Nima-HSF [182]==> in function <api_task_finish_job>: starts.
+[11970.115282] Nima-HSF [182]==> in function <api_task_finish_job>: task_exec = 4, 2.
+[11970.115287] Nima-HSF [182]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.115288] Nima-HSF [182]==> in function <api_task_finish_job>: ends.
+[11970.115567] Nima-HSF [182]==> in function <api_task_finish_job>: starts.
+[11970.115569] Nima-HSF [182]==> in function <api_task_finish_job>: task_exec = 4, 2.
+[11970.115572] Nima-HSF [182]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.115573] Nima-HSF [182]==> in function <api_task_finish_job>: ends.
+[11970.127876] Nima-HSF [185]==> in function <api_task_finish_job>: starts.
+[11970.127879] Nima-HSF [185]==> in function <api_task_finish_job>: task_exec = 5, 3.
+[11970.127880] Nima-HSF [185]==> in function <api_task_finish_job>: ends.
+[11970.145151] Nima-HSF [190]==> in function <api_task_finish_job>: starts.
+[11970.145154] Nima-HSF [190]==> in function <api_task_finish_job>: task_exec = 5, 8.
+[11970.145155] Nima-HSF [190]==> in function <api_task_finish_job>: ends.
+[11970.184096] Nima-HSF [200]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.184136] Nima-HSF [200]==> in function <server_release_handler>: start--------------------------- = 1.
+[11970.184173] Nima-HSF [200]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11970.184180] Nima-HSF [200]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11970.184184] Nima-HSF [200]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.184190] Nima-HSF [200]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.197350] Nima-HSF [203]==> in function <api_task_finish_job>: starts.
+[11970.197353] Nima-HSF [203]==> in function <api_task_finish_job>: task_exec = 6, 3.
+[11970.197357] Nima-HSF [203]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.197358] Nima-HSF [203]==> in function <api_task_finish_job>: ends.
+[11970.207200] Nima-HSF [205]==> in function <api_task_finish_job>: starts.
+[11970.207202] Nima-HSF [205]==> in function <api_task_finish_job>: task_exec = 5, 2.
+[11970.207204] Nima-HSF [205]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11970.207205] Nima-HSF [205]==> in function <api_task_finish_job>: ends.
+[11970.212331] Nima-HSF [207]==> in function <api_task_finish_job>: starts.
+[11970.212332] Nima-HSF [207]==> in function <api_task_finish_job>: task_exec = 3, 2.
+[11970.212333] Nima-HSF [207]==> in function <api_task_finish_job>: ends.
+[11970.214556] Nima-HSF [207]==> in function <api_task_finish_job>: starts.
+[11970.214559] Nima-HSF [207]==> in function <api_task_finish_job>: task_exec = 6, 7.
+[11970.214564] Nima-HSF [207]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11970.214565] Nima-HSF [207]==> in function <api_task_finish_job>: ends.
+[11970.227545] Nima-HSF [210]==> in function <api_task_finish_job>: starts.
+[11970.227550] Nima-HSF [210]==> in function <api_task_finish_job>: task_exec = 5, 3.
+[11970.227556] Nima-HSF [210]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11970.227557] Nima-HSF [210]==> in function <api_task_finish_job>: ends.
+[11970.233194] Nima-HSF [212]==> in function <api_task_finish_job>: starts.
+[11970.233196] Nima-HSF [212]==> in function <api_task_finish_job>: task_exec = 3, 2.
+[11970.233197] Nima-HSF [212]==> in function <api_task_finish_job>: ends.
+[11970.284092] Nima-HSF [225]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11970.284137] Nima-HSF [225]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11970.284151] Nima-HSF [225]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11970.284299] Nima-HSF [225]==> in function <api_get_ctrl_data>: start.
+[11970.284302] Nima-HSF [225]==> in function <find_slacks>: bandwidth = 50, 50.
+[11970.284303] Nima-HSF [225]==> in function <find_slacks>: bandwidth = 5, 45.
+[11970.284304] Nima-HSF [225]==> in function <find_slacks>: bandwidth = 64, 36.
+[11970.284305] Nima-HSF [225]==> in function <api_get_ctrl_data>: init starts.
+[11970.284306] Nima-HSF [225]==> in function <api_get_ctrl_data>: init finished.
+[11970.284307] Nima-HSF [225]==> in function <api_get_ctrl_data>: server id = 2.
+[11970.284309] Nima-HSF [225]==> in function <api_get_ctrl_data>: end of api call!.
+[11970.284391] Nima-HSF [225]==> in function <api_set_server_param>: id = 2.
+[11970.284392] Nima-HSF [225]==> in function <api_set_server_param>: period = 91.
+[11970.284393] Nima-HSF [225]==> in function <api_set_server_param>: budget = 59.
+[11970.284394] Nima-HSF [225]==> in function <api_set_server_param>: priority = 0.
+[11970.284395] Nima-HSF [225]==> in function <api_set_server_param>: proc_id = 1.
+[11970.284396] Nima-HSF [225]==> in function <api_set_server_param>: api call ends.
+[11970.284403] Nima-HSF [225]==> in function <api_task_finish_job>: starts.
+[11970.284405] Nima-HSF [225]==> in function <api_task_finish_job>: task_exec = 2, 0.
+[11970.284407] Nima-HSF [225]==> in function <api_task_finish_job>: ends.
+[11970.324117] Nima-HSF [235]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11970.324147] Nima-HSF [235]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11970.336115] Nima-HSF [238]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11970.336150] Nima-HSF [238]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11970.464080] Nima-HSF [270]==> in function <server_release_handler>: start--------------------------- = 0.
+[11970.464118] Nima-HSF [270]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.464131] Nima-HSF [270]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11970.464132] Nima-HSF [270]==> in function <server_release_handler>: start--------------------------- = 2.
+[11970.464139] Nima-HSF [270]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.464141] Nima-HSF [270]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11970.476256] Nima-HSF [273]==> in function <api_task_finish_job>: starts.
+[11970.476258] Nima-HSF [273]==> in function <api_task_finish_job>: task_exec = 7, 3.
+[11970.476261] Nima-HSF [273]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.476262] Nima-HSF [273]==> in function <api_task_finish_job>: ends.
+[11970.487176] Nima-HSF [275]==> in function <api_task_finish_job>: starts.
+[11970.487178] Nima-HSF [275]==> in function <api_task_finish_job>: task_exec = 6, 2.
+[11970.487179] Nima-HSF [275]==> in function <api_task_finish_job>: ends.
+[11970.504056] Nima-HSF [280]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.504418] Nima-HSF [280]==> in function <api_task_finish_job>: starts.
+[11970.504421] Nima-HSF [280]==> in function <api_task_finish_job>: task_exec = 8, 10.
+[11970.504422] Nima-HSF [280]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11970.504426] Nima-HSF [280]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11970.504427] Nima-HSF [280]==> in function <api_task_finish_job>: ends.
+[11970.514476] Nima-HSF [282]==> in function <api_task_finish_job>: starts.
+[11970.514478] Nima-HSF [282]==> in function <api_task_finish_job>: task_exec = 6, 2.
+[11970.514480] Nima-HSF [282]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.514481] Nima-HSF [282]==> in function <api_task_finish_job>: ends.
+[11970.516026] Nima-HSF [283]==> in function <api_task_finish_job>: starts.
+[11970.516026] Nima-HSF [283]==> in function <api_task_finish_job>: task_exec = 8, 3.
+[11970.516026] Nima-HSF [283]==> in function <api_task_finish_job>: ends.
+[11970.546067] Nima-HSF [290]==> in function <api_task_finish_job>: starts.
+[11970.546069] Nima-HSF [290]==> in function <api_task_finish_job>: task_exec = 8, 8.
+[11970.546070] Nima-HSF [290]==> in function <api_task_finish_job>: ends.
+[11970.584088] Nima-HSF [300]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11970.584122] Nima-HSF [300]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11970.584132] Nima-HSF [300]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.584134] Nima-HSF [300]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11970.595321] Nima-HSF [302]==> in function <api_task_finish_job>: starts.
+[11970.595326] Nima-HSF [302]==> in function <api_task_finish_job>: task_exec = 7, 2.
+[11970.595330] Nima-HSF [302]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11970.595331] Nima-HSF [302]==> in function <api_task_finish_job>: ends.
+[11970.595445] Nima-HSF [302]==> in function <api_task_finish_job>: starts.
+[11970.595447] Nima-HSF [302]==> in function <api_task_finish_job>: task_exec = 7, 2.
+[11970.595450] Nima-HSF [302]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11970.595451] Nima-HSF [302]==> in function <api_task_finish_job>: ends.
+[11970.600230] Nima-HSF [304]==> in function <api_task_finish_job>: starts.
+[11970.600232] Nima-HSF [304]==> in function <api_task_finish_job>: task_exec = 4, 2.
+[11970.600233] Nima-HSF [304]==> in function <api_task_finish_job>: ends.
+[11970.600468] Nima-HSF [304]==> in function <api_task_finish_job>: starts.
+[11970.600470] Nima-HSF [304]==> in function <api_task_finish_job>: task_exec = 4, 2.
+[11970.600471] Nima-HSF [304]==> in function <api_task_finish_job>: ends.
+[11970.644100] Nima-HSF [315]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11970.644105] Nima-HSF [315]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11970.664098] Nima-HSF [320]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.677497] Nima-HSF [323]==> in function <api_task_finish_job>: starts.
+[11970.677499] Nima-HSF [323]==> in function <api_task_finish_job>: task_exec = 9, 3.
+[11970.677500] Nima-HSF [323]==> in function <api_task_finish_job>: ends.
+[11970.700090] Nima-HSF [329]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11970.700116] Nima-HSF [329]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11970.824058] Nima-HSF [360]==> in function <server_release_handler>: start--------------------------- = 0.
+[11970.824092] Nima-HSF [360]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.824106] Nima-HSF [360]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11970.828066] Nima-HSF [361]==> in function <server_release_handler>: start--------------------------- = 2.
+[11970.828075] Nima-HSF [361]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.828077] Nima-HSF [361]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11970.840159] Nima-HSF [364]==> in function <api_task_finish_job>: starts.
+[11970.840161] Nima-HSF [364]==> in function <api_task_finish_job>: task_exec = 8, 3.
+[11970.840164] Nima-HSF [364]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11970.840165] Nima-HSF [364]==> in function <api_task_finish_job>: ends.
+[11970.853683] Nima-HSF [367]==> in function <api_task_finish_job>: starts.
+[11970.853685] Nima-HSF [367]==> in function <api_task_finish_job>: task_exec = 10, 3.
+[11970.853686] Nima-HSF [367]==> in function <api_task_finish_job>: ends.
+[11970.857452] Nima-HSF [368]==> in function <api_task_finish_job>: starts.
+[11970.857455] Nima-HSF [368]==> in function <api_task_finish_job>: task_exec = 10, 8.
+[11970.857456] Nima-HSF [368]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11970.857460] Nima-HSF [368]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11970.857461] Nima-HSF [368]==> in function <api_task_finish_job>: ends.
+[11970.868443] Nima-HSF [371]==> in function <api_task_finish_job>: starts.
+[11970.868444] Nima-HSF [371]==> in function <api_task_finish_job>: task_exec = 8, 3.
+[11970.868447] Nima-HSF [371]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.868448] Nima-HSF [371]==> in function <api_task_finish_job>: ends.
+[11970.912937] Nima-HSF [382]==> in function <api_task_finish_job>: starts.
+[11970.912939] Nima-HSF [382]==> in function <api_task_finish_job>: task_exec = 10, 11.
+[11970.912941] Nima-HSF [382]==> in function <api_task_finish_job>: ends.
+[11970.984093] Nima-HSF [400]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11970.988627] Nima-HSF [401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11970.988630] Nima-HSF [401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11970.988635] Nima-HSF [401]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11970.988638] Nima-HSF [401]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11970.988641] Nima-HSF [401]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.001961] Nima-HSF [404]==> in function <api_task_finish_job>: starts.
+[11971.001963] Nima-HSF [404]==> in function <api_task_finish_job>: task_exec = 11, 3.
+[11971.001966] Nima-HSF [404]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.001967] Nima-HSF [404]==> in function <api_task_finish_job>: ends.
+[11971.004027] Nima-HSF [405]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11971.004038] Nima-HSF [405]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11971.004039] Nima-HSF [405]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11971.008047] Nima-HSF [406]==> in function <api_get_ctrl_data>: start.
+[11971.008050] Nima-HSF [406]==> in function <find_slacks>: bandwidth = 50, 50.
+[11971.008051] Nima-HSF [406]==> in function <find_slacks>: bandwidth = 5, 45.
+[11971.008052] Nima-HSF [406]==> in function <find_slacks>: bandwidth = 64, 36.
+[11971.008053] Nima-HSF [406]==> in function <api_get_ctrl_data>: init starts.
+[11971.008054] Nima-HSF [406]==> in function <api_get_ctrl_data>: init finished.
+[11971.008055] Nima-HSF [406]==> in function <api_get_ctrl_data>: server id = 2.
+[11971.008057] Nima-HSF [406]==> in function <api_get_ctrl_data>: end of api call!.
+[11971.008113] Nima-HSF [406]==> in function <api_set_server_param>: id = 2.
+[11971.008115] Nima-HSF [406]==> in function <api_set_server_param>: period = 91.
+[11971.008116] Nima-HSF [406]==> in function <api_set_server_param>: budget = 59.
+[11971.008117] Nima-HSF [406]==> in function <api_set_server_param>: priority = 0.
+[11971.008117] Nima-HSF [406]==> in function <api_set_server_param>: proc_id = 1.
+[11971.008118] Nima-HSF [406]==> in function <api_set_server_param>: api call ends.
+[11971.008143] Nima-HSF [406]==> in function <api_task_finish_job>: starts.
+[11971.008145] Nima-HSF [406]==> in function <api_task_finish_job>: task_exec = 3, 1.
+[11971.008146] Nima-HSF [406]==> in function <api_task_finish_job>: ends.
+[11971.013073] Nima-HSF [407]==> in function <api_task_finish_job>: starts.
+[11971.013075] Nima-HSF [407]==> in function <api_task_finish_job>: task_exec = 9, 3.
+[11971.013077] Nima-HSF [407]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11971.013078] Nima-HSF [407]==> in function <api_task_finish_job>: ends.
+[11971.018565] Nima-HSF [408]==> in function <api_task_finish_job>: starts.
+[11971.018567] Nima-HSF [408]==> in function <api_task_finish_job>: task_exec = 5, 1.
+[11971.018568] Nima-HSF [408]==> in function <api_task_finish_job>: ends.
+[11971.044057] Nima-HSF [415]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11971.044088] Nima-HSF [415]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11971.064058] Nima-HSF [420]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11971.064087] Nima-HSF [420]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11971.184093] Nima-HSF [450]==> in function <server_release_handler>: start--------------------------- = 0.
+[11971.184110] Nima-HSF [450]==> in function <task_context_switch>: dl_miss.
+[11971.184111] Nima-HSF [450]==> in function <>: deadline is at at 440.
+[11971.184112] Nima-HSF [450]==> in function <>: now is at 450.
+[11971.184130] Nima-HSF [450]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.184132] Nima-HSF [450]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11971.192057] Nima-HSF [452]==> in function <server_release_handler>: start--------------------------- = 2.
+[11971.192078] Nima-HSF [452]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.192080] Nima-HSF [452]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11971.195911] Nima-HSF [452]==> in function <api_task_finish_job>: starts.
+[11971.195914] Nima-HSF [452]==> in function <api_task_finish_job>: task_exec = 12, 2.
+[11971.195915] Nima-HSF [452]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11971.195918] Nima-HSF [452]==> in function <task_context_switch>: dl_miss.
+[11971.195919] Nima-HSF [452]==> in function <>: deadline is at at 451.
+[11971.195920] Nima-HSF [452]==> in function <>: now is at 452.
+[11971.195922] Nima-HSF [452]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.195923] Nima-HSF [452]==> in function <api_task_finish_job>: ends.
+[11971.205266] Nima-HSF [455]==> in function <api_task_finish_job>: starts.
+[11971.205268] Nima-HSF [455]==> in function <api_task_finish_job>: task_exec = 12, 3.
+[11971.205271] Nima-HSF [455]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.205272] Nima-HSF [455]==> in function <api_task_finish_job>: ends.
+[11971.206482] Nima-HSF [455]==> in function <api_task_finish_job>: starts.
+[11971.206483] Nima-HSF [455]==> in function <api_task_finish_job>: task_exec = 10, 3.
+[11971.206484] Nima-HSF [455]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11971.206487] Nima-HSF [455]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.206488] Nima-HSF [455]==> in function <api_task_finish_job>: ends.
+[11971.216260] Nima-HSF [458]==> in function <api_task_finish_job>: starts.
+[11971.216261] Nima-HSF [458]==> in function <api_task_finish_job>: task_exec = 10, 3.
+[11971.216263] Nima-HSF [458]==> in function <api_task_finish_job>: ends.
+[11971.239446] Nima-HSF [463]==> in function <api_task_finish_job>: starts.
+[11971.239451] Nima-HSF [463]==> in function <api_task_finish_job>: task_exec = 12, 8.
+[11971.239461] Nima-HSF [463]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11971.239465] Nima-HSF [463]==> in function <api_task_finish_job>: ends.
+[11971.245019] Nima-HSF [465]==> in function <api_task_finish_job>: starts.
+[11971.245021] Nima-HSF [465]==> in function <api_task_finish_job>: task_exec = 5, 2.
+[11971.245023] Nima-HSF [465]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.245024] Nima-HSF [465]==> in function <api_task_finish_job>: ends.
+[11971.256140] Nima-HSF [468]==> in function <api_task_finish_job>: starts.
+[11971.256142] Nima-HSF [468]==> in function <api_task_finish_job>: task_exec = 10, 3.
+[11971.256143] Nima-HSF [468]==> in function <api_task_finish_job>: ends.
+[11971.304107] Nima-HSF [480]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.308050] Nima-HSF [481]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.321162] Nima-HSF [484]==> in function <api_task_finish_job>: starts.
+[11971.321164] Nima-HSF [484]==> in function <api_task_finish_job>: task_exec = 13, 3.
+[11971.321165] Nima-HSF [484]==> in function <api_task_finish_job>: ends.
+[11971.341690] Nima-HSF [489]==> in function <api_task_finish_job>: starts.
+[11971.341693] Nima-HSF [489]==> in function <api_task_finish_job>: task_exec = 13, 9.
+[11971.341695] Nima-HSF [489]==> in function <api_task_finish_job>: ends.
+[11971.364062] Nima-HSF [495]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11971.364068] Nima-HSF [495]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11971.388066] Nima-HSF [501]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11971.388117] Nima-HSF [501]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.398537] Nima-HSF [503]==> in function <api_task_finish_job>: starts.
+[11971.398539] Nima-HSF [503]==> in function <api_task_finish_job>: task_exec = 11, 2.
+[11971.398541] Nima-HSF [503]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11971.398542] Nima-HSF [503]==> in function <api_task_finish_job>: ends.
+[11971.403871] Nima-HSF [504]==> in function <api_task_finish_job>: starts.
+[11971.403873] Nima-HSF [504]==> in function <api_task_finish_job>: task_exec = 6, 1.
+[11971.403874] Nima-HSF [504]==> in function <api_task_finish_job>: ends.
+[11971.428060] Nima-HSF [511]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11971.428085] Nima-HSF [511]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11971.544091] Nima-HSF [540]==> in function <server_release_handler>: start--------------------------- = 0.
+[11971.544132] Nima-HSF [540]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.544147] Nima-HSF [540]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11971.555431] Nima-HSF [542]==> in function <api_task_finish_job>: starts.
+[11971.555435] Nima-HSF [542]==> in function <api_task_finish_job>: task_exec = 11, 2.
+[11971.555438] Nima-HSF [542]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.555439] Nima-HSF [542]==> in function <api_task_finish_job>: ends.
+[11971.556063] Nima-HSF [543]==> in function <server_release_handler>: start--------------------------- = 2.
+[11971.556073] Nima-HSF [543]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.556074] Nima-HSF [543]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11971.569441] Nima-HSF [546]==> in function <api_task_finish_job>: starts.
+[11971.569445] Nima-HSF [546]==> in function <api_task_finish_job>: task_exec = 14, 3.
+[11971.569450] Nima-HSF [546]==> in function <api_task_finish_job>: ends.
+[11971.588063] Nima-HSF [551]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.591552] Nima-HSF [551]==> in function <api_task_finish_job>: starts.
+[11971.591554] Nima-HSF [551]==> in function <api_task_finish_job>: task_exec = 14, 9.
+[11971.591557] Nima-HSF [551]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11971.591558] Nima-HSF [551]==> in function <api_task_finish_job>: ends.
+[11971.596628] Nima-HSF [553]==> in function <api_task_finish_job>: starts.
+[11971.596630] Nima-HSF [553]==> in function <api_task_finish_job>: task_exec = 6, 2.
+[11971.596632] Nima-HSF [553]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.596633] Nima-HSF [553]==> in function <api_task_finish_job>: ends.
+[11971.598486] Nima-HSF [553]==> in function <api_task_finish_job>: starts.
+[11971.598488] Nima-HSF [553]==> in function <api_task_finish_job>: task_exec = 12, 2.
+[11971.598489] Nima-HSF [553]==> in function <api_task_finish_job>: ends.
+[11971.607707] Nima-HSF [555]==> in function <api_task_finish_job>: starts.
+[11971.607709] Nima-HSF [555]==> in function <api_task_finish_job>: task_exec = 12, 2.
+[11971.607710] Nima-HSF [555]==> in function <api_task_finish_job>: ends.
+[11971.624064] Nima-HSF [560]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.628870] Nima-HSF [561]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.640844] Nima-HSF [564]==> in function <api_task_finish_job>: starts.
+[11971.640845] Nima-HSF [564]==> in function <api_task_finish_job>: task_exec = 15, 3.
+[11971.640847] Nima-HSF [564]==> in function <api_task_finish_job>: ends.
+[11971.657127] Nima-HSF [568]==> in function <api_task_finish_job>: starts.
+[11971.657131] Nima-HSF [568]==> in function <api_task_finish_job>: task_exec = 15, 8.
+[11971.657133] Nima-HSF [568]==> in function <api_task_finish_job>: ends.
+[11971.724087] Nima-HSF [585]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11971.724113] Nima-HSF [585]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11971.789096] Nima-HSF [601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11971.789135] Nima-HSF [601]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11971.789153] Nima-HSF [601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11971.789163] Nima-HSF [601]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11971.789173] Nima-HSF [601]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.789183] Nima-HSF [601]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.789185] Nima-HSF [601]==> in function <api_get_ctrl_data>: start.
+[11971.789188] Nima-HSF [601]==> in function <find_slacks>: bandwidth = 50, 50.
+[11971.789189] Nima-HSF [601]==> in function <find_slacks>: bandwidth = 5, 45.
+[11971.789190] Nima-HSF [601]==> in function <find_slacks>: bandwidth = 64, 36.
+[11971.789191] Nima-HSF [601]==> in function <api_get_ctrl_data>: init starts.
+[11971.789192] Nima-HSF [601]==> in function <api_get_ctrl_data>: init finished.
+[11971.789193] Nima-HSF [601]==> in function <api_get_ctrl_data>: server id = 2.
+[11971.789194] Nima-HSF [601]==> in function <api_get_ctrl_data>: end of api call!.
+[11971.789259] Nima-HSF [601]==> in function <api_set_server_param>: id = 2.
+[11971.789260] Nima-HSF [601]==> in function <api_set_server_param>: period = 91.
+[11971.789261] Nima-HSF [601]==> in function <api_set_server_param>: budget = 59.
+[11971.789262] Nima-HSF [601]==> in function <api_set_server_param>: priority = 0.
+[11971.789263] Nima-HSF [601]==> in function <api_set_server_param>: proc_id = 1.
+[11971.789264] Nima-HSF [601]==> in function <api_set_server_param>: api call ends.
+[11971.789271] Nima-HSF [601]==> in function <api_task_finish_job>: starts.
+[11971.789273] Nima-HSF [601]==> in function <api_task_finish_job>: task_exec = 4, 0.
+[11971.789274] Nima-HSF [601]==> in function <api_task_finish_job>: ends.
+[11971.792027] Nima-HSF [602]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11971.792027] Nima-HSF [602]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11971.828079] Nima-HSF [611]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11971.828115] Nima-HSF [611]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11971.904094] Nima-HSF [630]==> in function <server_release_handler>: start--------------------------- = 0.
+[11971.904141] Nima-HSF [630]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.904160] Nima-HSF [630]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11971.920051] Nima-HSF [634]==> in function <server_release_handler>: start--------------------------- = 2.
+[11971.920072] Nima-HSF [634]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.920084] Nima-HSF [634]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11971.930188] Nima-HSF [636]==> in function <api_task_finish_job>: starts.
+[11971.930192] Nima-HSF [636]==> in function <api_task_finish_job>: task_exec = 16, 2.
+[11971.930202] Nima-HSF [636]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.930205] Nima-HSF [636]==> in function <api_task_finish_job>: ends.
+[11971.940542] Nima-HSF [639]==> in function <api_task_finish_job>: starts.
+[11971.940544] Nima-HSF [639]==> in function <api_task_finish_job>: task_exec = 13, 3.
+[11971.940548] Nima-HSF [639]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11971.940549] Nima-HSF [639]==> in function <api_task_finish_job>: ends.
+[11971.945650] Nima-HSF [640]==> in function <api_task_finish_job>: starts.
+[11971.945653] Nima-HSF [640]==> in function <api_task_finish_job>: task_exec = 7, 1.
+[11971.945654] Nima-HSF [640]==> in function <api_task_finish_job>: ends.
+[11971.948055] Nima-HSF [641]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11971.948962] Nima-HSF [641]==> in function <api_task_finish_job>: starts.
+[11971.948965] Nima-HSF [641]==> in function <api_task_finish_job>: task_exec = 17, 11.
+[11971.948966] Nima-HSF [641]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11971.948970] Nima-HSF [641]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.948971] Nima-HSF [641]==> in function <api_task_finish_job>: ends.
+[11971.959928] Nima-HSF [643]==> in function <api_task_finish_job>: starts.
+[11971.959930] Nima-HSF [643]==> in function <api_task_finish_job>: task_exec = 13, 2.
+[11971.959932] Nima-HSF [643]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11971.959933] Nima-HSF [643]==> in function <api_task_finish_job>: ends.
+[11971.960465] Nima-HSF [644]==> in function <api_task_finish_job>: starts.
+[11971.960467] Nima-HSF [644]==> in function <api_task_finish_job>: task_exec = 17, 3.
+[11971.960468] Nima-HSF [644]==> in function <api_task_finish_job>: ends.
+[11971.982794] Nima-HSF [649]==> in function <api_task_finish_job>: starts.
+[11971.982795] Nima-HSF [649]==> in function <api_task_finish_job>: task_exec = 17, 6.
+[11971.982798] Nima-HSF [649]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11971.982799] Nima-HSF [649]==> in function <api_task_finish_job>: ends.
+[11971.988384] Nima-HSF [651]==> in function <api_task_finish_job>: starts.
+[11971.988386] Nima-HSF [651]==> in function <api_task_finish_job>: task_exec = 7, 2.
+[11971.988388] Nima-HSF [651]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11971.988389] Nima-HSF [651]==> in function <api_task_finish_job>: ends.
+[11971.988048] Nima-HSF [651]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11971.998954] Nima-HSF [653]==> in function <api_task_finish_job>: starts.
+[11971.998956] Nima-HSF [653]==> in function <api_task_finish_job>: task_exec = 14, 2.
+[11971.998958] Nima-HSF [653]==> in function <api_task_finish_job>: ends.
+[11971.999639] Nima-HSF [653]==> in function <api_task_finish_job>: starts.
+[11971.999641] Nima-HSF [653]==> in function <api_task_finish_job>: task_exec = 14, 2.
+[11971.999642] Nima-HSF [653]==> in function <api_task_finish_job>: ends.
+[11972.084094] Nima-HSF [675]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11972.084125] Nima-HSF [675]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11972.108092] Nima-HSF [681]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11972.121066] Nima-HSF [684]==> in function <api_task_finish_job>: starts.
+[11972.121068] Nima-HSF [684]==> in function <api_task_finish_job>: task_exec = 18, 3.
+[11972.121069] Nima-HSF [684]==> in function <api_task_finish_job>: ends.
+[11972.156081] Nima-HSF [693]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11972.156110] Nima-HSF [693]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11972.264104] Nima-HSF [720]==> in function <server_release_handler>: start--------------------------- = 0.
+[11972.264145] Nima-HSF [720]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11972.264161] Nima-HSF [720]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11972.281585] Nima-HSF [724]==> in function <api_task_finish_job>: starts.
+[11972.281588] Nima-HSF [724]==> in function <api_task_finish_job>: task_exec = 19, 4.
+[11972.281589] Nima-HSF [724]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11972.281593] Nima-HSF [724]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11972.281594] Nima-HSF [724]==> in function <api_task_finish_job>: ends.
+[11972.284074] Nima-HSF [725]==> in function <server_release_handler>: start--------------------------- = 2.
+[11972.284083] Nima-HSF [725]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11972.284085] Nima-HSF [725]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11972.293540] Nima-HSF [727]==> in function <api_task_finish_job>: starts.
+[11972.293542] Nima-HSF [727]==> in function <api_task_finish_job>: task_exec = 15, 3.
+[11972.293545] Nima-HSF [727]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11972.293546] Nima-HSF [727]==> in function <api_task_finish_job>: ends.
+[11972.295065] Nima-HSF [727]==> in function <api_task_finish_job>: starts.
+[11972.295067] Nima-HSF [727]==> in function <api_task_finish_job>: task_exec = 15, 2.
+[11972.295069] Nima-HSF [727]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11972.295070] Nima-HSF [727]==> in function <api_task_finish_job>: ends.
+[11972.307330] Nima-HSF [730]==> in function <api_task_finish_job>: starts.
+[11972.307334] Nima-HSF [730]==> in function <api_task_finish_job>: task_exec = 19, 3.
+[11972.307343] Nima-HSF [730]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11972.307347] Nima-HSF [730]==> in function <api_task_finish_job>: ends.
+[11972.312104] Nima-HSF [732]==> in function <api_task_finish_job>: starts.
+[11972.312105] Nima-HSF [732]==> in function <api_task_finish_job>: task_exec = 8, 2.
+[11972.312106] Nima-HSF [732]==> in function <api_task_finish_job>: ends.
+[11972.322252] Nima-HSF [734]==> in function <api_task_finish_job>: starts.
+[11972.322254] Nima-HSF [734]==> in function <api_task_finish_job>: task_exec = 19, 7.
+[11972.322257] Nima-HSF [734]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11972.322258] Nima-HSF [734]==> in function <api_task_finish_job>: ends.
+[11972.327485] Nima-HSF [735]==> in function <api_task_finish_job>: starts.
+[11972.327487] Nima-HSF [735]==> in function <api_task_finish_job>: task_exec = 8, 1.
+[11972.327489] Nima-HSF [735]==> in function <api_task_finish_job>: ends.
+[11972.388061] Nima-HSF [751]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11972.388296] Nima-HSF [751]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11972.398515] Nima-HSF [753]==> in function <api_task_finish_job>: starts.
+[11972.398517] Nima-HSF [753]==> in function <api_task_finish_job>: task_exec = 16, 2.
+[11972.398519] Nima-HSF [753]==> in function <api_task_finish_job>: ends.
+[11972.399426] Nima-HSF [753]==> in function <api_task_finish_job>: starts.
+[11972.399428] Nima-HSF [753]==> in function <api_task_finish_job>: task_exec = 16, 2.
+[11972.399429] Nima-HSF [753]==> in function <api_task_finish_job>: ends.
+[11972.424063] Nima-HSF [760]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11972.428112] Nima-HSF [761]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11972.441313] Nima-HSF [764]==> in function <api_task_finish_job>: starts.
+[11972.441315] Nima-HSF [764]==> in function <api_task_finish_job>: task_exec = 20, 3.
+[11972.441317] Nima-HSF [764]==> in function <api_task_finish_job>: ends.
+[11972.444040] Nima-HSF [765]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11972.444044] Nima-HSF [765]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11972.520054] Nima-HSF [784]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11972.520090] Nima-HSF [784]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11972.588950] Nima-HSF [801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11972.589120] Nima-HSF [801]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11972.589136] Nima-HSF [801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11972.589199] Nima-HSF [801]==> in function <api_get_ctrl_data>: start.
+[11972.589209] Nima-HSF [801]==> in function <find_slacks>: bandwidth = 50, 50.
+[11972.589211] Nima-HSF [801]==> in function <find_slacks>: bandwidth = 5, 45.
+[11972.589212] Nima-HSF [801]==> in function <find_slacks>: bandwidth = 64, 36.
+[11972.589213] Nima-HSF [801]==> in function <api_get_ctrl_data>: init starts.
+[11972.589213] Nima-HSF [801]==> in function <api_get_ctrl_data>: init finished.
+[11972.589215] Nima-HSF [801]==> in function <api_get_ctrl_data>: server id = 2.
+[11972.589216] Nima-HSF [801]==> in function <api_get_ctrl_data>: end of api call!.
+[11972.589302] Nima-HSF [801]==> in function <api_set_server_param>: id = 2.
+[11972.589303] Nima-HSF [801]==> in function <api_set_server_param>: period = 91.
+[11972.589306] Nima-HSF [801]==> in function <api_set_server_param>: budget = 59.
+[11972.589307] Nima-HSF [801]==> in function <api_set_server_param>: priority = 0.
+[11972.589307] Nima-HSF [801]==> in function <api_set_server_param>: proc_id = 1.
+[11972.589308] Nima-HSF [801]==> in function <api_set_server_param>: api call ends.
+[11972.589317] Nima-HSF [801]==> in function <api_task_finish_job>: starts.
+[11972.589319] Nima-HSF [801]==> in function <api_task_finish_job>: task_exec = 5, 0.
+[11972.589329] Nima-HSF [801]==> in function <api_task_finish_job>: ends.
+[11972.624074] Nima-HSF [810]==> in function <server_release_handler>: start--------------------------- = 0.
+[11972.624094] Nima-HSF [810]==> in function <server_context_switch>: stop active server and remove its budget deplition timer.
+[11972.624096] Nima-HSF [810]==> in function <server_context_switch>: active server - new server = 1, 0.
+[11972.624097] Nima-HSF [810]==> in function <server_context_switch>: total_budget = 49.
+[11972.624098] Nima-HSF [810]==> in function <server_context_switch>: active_server->current_budget - consumed_budget = 1, 9.
+[11972.624107] Nima-HSF [810]==> in function <task_context_switch>: dl_miss.
+[11972.624108] Nima-HSF [810]==> in function <>: deadline is at at 800.
+[11972.624109] Nima-HSF [810]==> in function <>: now is at 810.
+[11972.624130] Nima-HSF [810]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11972.624147] Nima-HSF [810]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11972.632804] Nima-HSF [812]==> in function <api_task_finish_job>: starts.
+[11972.632813] Nima-HSF [812]==> in function <api_task_finish_job>: task_exec = 21, 2.
+[11972.632814] Nima-HSF [812]==> in function <api_task_finish_job>: number of queued_releases = 1.
+[11972.632820] Nima-HSF [812]==> in function <run_first_element>: ***task is_running in server = 3, 0.
+[11972.632821] Nima-HSF [812]==> in function <api_task_finish_job>: ends.
+[11972.632908] Nima-HSF [812]==> in function <api_detach_task>: starts!.
+[11972.632912] Nima-HSF [812]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11972.632913] Nima-HSF [812]==> in function <api_detach_task>: api call from task = 3.
+[11972.644435] Nima-HSF [815]==> in function <api_task_finish_job>: starts.
+[11972.644437] Nima-HSF [815]==> in function <api_task_finish_job>: task_exec = 17, 3.
+[11972.644440] Nima-HSF [815]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11972.644441] Nima-HSF [815]==> in function <api_task_finish_job>: ends.
+[11972.648070] Nima-HSF [816]==> in function <server_release_handler>: start--------------------------- = 2.
+[11972.648080] Nima-HSF [816]==> in function <run_first_element>: ***task is_running in server = 0, 2.
+[11972.648082] Nima-HSF [816]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11972.648119] Nima-HSF [816]==> in function <api_detach_task>: starts!.
+[11972.648122] Nima-HSF [816]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11972.648123] Nima-HSF [816]==> in function <api_detach_task>: api call from task = 0.
+[11972.650208] Nima-HSF [816]==> in function <api_task_finish_job>: starts.
+[11972.650210] Nima-HSF [816]==> in function <api_task_finish_job>: task_exec = 9, 1.
+[11972.650211] Nima-HSF [816]==> in function <api_task_finish_job>: ends.
+[11972.662047] Nima-HSF [819]==> in function <api_task_finish_job>: starts.
+[11972.662051] Nima-HSF [819]==> in function <api_task_finish_job>: task_exec = 17, 3.
+[11972.662056] Nima-HSF [819]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11972.662057] Nima-HSF [819]==> in function <api_task_finish_job>: ends.
+[11972.668092] Nima-HSF [821]==> in function <api_task_finish_job>: starts.
+[11972.668099] Nima-HSF [821]==> in function <api_task_finish_job>: task_exec = 9, 2.
+[11972.668104] Nima-HSF [821]==> in function <api_task_finish_job>: ends.
+[11972.788055] Nima-HSF [851]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11972.788785] Nima-HSF [851]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11972.799500] Nima-HSF [853]==> in function <api_task_finish_job>: starts.
+[11972.799506] Nima-HSF [853]==> in function <api_task_finish_job>: task_exec = 18, 2.
+[11972.799511] Nima-HSF [853]==> in function <api_task_finish_job>: ends.
+[11972.799634] Nima-HSF [853]==> in function <api_task_finish_job>: starts.
+[11972.799643] Nima-HSF [853]==> in function <api_task_finish_job>: task_exec = 18, 2.
+[11972.799645] Nima-HSF [853]==> in function <api_task_finish_job>: ends.
+[11972.804053] Nima-HSF [855]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11972.804064] Nima-HSF [855]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11972.808057] Nima-HSF [856]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11972.808059] Nima-HSF [856]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11972.884078] Nima-HSF [875]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11972.884115] Nima-HSF [875]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11972.984098] Nima-HSF [900]==> in function <server_release_handler>: start--------------------------- = 0.
+[11972.984151] Nima-HSF [900]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11972.989070] Nima-HSF [901]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11972.989149] Nima-HSF [901]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11972.999812] Nima-HSF [903]==> in function <api_task_finish_job>: starts.
+[11972.999815] Nima-HSF [903]==> in function <api_task_finish_job>: task_exec = 19, 2.
+[11972.999825] Nima-HSF [903]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11972.999826] Nima-HSF [903]==> in function <api_task_finish_job>: ends.
+[11973.005133] Nima-HSF [905]==> in function <api_task_finish_job>: starts.
+[11973.005135] Nima-HSF [905]==> in function <api_task_finish_job>: task_exec = 10, 2.
+[11973.005136] Nima-HSF [905]==> in function <api_task_finish_job>: ends.
+[11973.012082] Nima-HSF [907]==> in function <server_release_handler>: start--------------------------- = 2.
+[11973.012092] Nima-HSF [907]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11973.012093] Nima-HSF [907]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11973.022434] Nima-HSF [909]==> in function <api_task_finish_job>: starts.
+[11973.022436] Nima-HSF [909]==> in function <api_task_finish_job>: task_exec = 19, 2.
+[11973.022439] Nima-HSF [909]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11973.022440] Nima-HSF [909]==> in function <api_task_finish_job>: ends.
+[11973.027526] Nima-HSF [910]==> in function <api_task_finish_job>: starts.
+[11973.027528] Nima-HSF [910]==> in function <api_task_finish_job>: task_exec = 10, 1.
+[11973.027529] Nima-HSF [910]==> in function <api_task_finish_job>: ends.
+[11973.164097] Nima-HSF [945]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11973.164126] Nima-HSF [945]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11973.188990] Nima-HSF [951]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11973.199069] Nima-HSF [953]==> in function <api_task_finish_job>: starts.
+[11973.199071] Nima-HSF [953]==> in function <api_task_finish_job>: task_exec = 20, 2.
+[11973.199072] Nima-HSF [953]==> in function <api_task_finish_job>: ends.
+[11973.248082] Nima-HSF [966]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11973.248117] Nima-HSF [966]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11973.344091] Nima-HSF [990]==> in function <server_release_handler>: start--------------------------- = 0.
+[11973.344132] Nima-HSF [990]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11973.344146] Nima-HSF [990]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11973.354440] Nima-HSF [992]==> in function <api_task_finish_job>: starts.
+[11973.354446] Nima-HSF [992]==> in function <api_task_finish_job>: task_exec = 20, 2.
+[11973.354450] Nima-HSF [992]==> in function <api_task_finish_job>: ends.
+[11973.376080] Nima-HSF [998]==> in function <server_release_handler>: start--------------------------- = 2.
+[11973.376088] Nima-HSF [998]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11973.388066] Nima-HSF [1001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11973.388070] Nima-HSF [1001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11973.388077] Nima-HSF [1001]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11973.388086] Nima-HSF [1001]==> in function <run_first_element>: ***task is_running in server = 4, 0.
+[11973.388103] Nima-HSF [1001]==> in function <run_first_element>: ***task is_running in server = 1, 2.
+[11973.388901] Nima-HSF [1001]==> in function <api_detach_task>: starts!.
+[11973.388902] Nima-HSF [1001]==> in function <api_detach_task>: starts!.
+[11973.388905] Nima-HSF [1001]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11973.388906] Nima-HSF [1001]==> in function <api_detach_task>: api call from task = 1.
+[11973.388910] Nima-HSF [1001]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11973.388911] Nima-HSF [1001]==> in function <api_detach_task>: api call from task = 4.
+[11973.394083] Nima-HSF [1002]==> in function <api_task_finish_job>: starts.
+[11973.394084] Nima-HSF [1002]==> in function <api_task_finish_job>: task_exec = 11, 1.
+[11973.394086] Nima-HSF [1002]==> in function <api_task_finish_job>: ends.
+[11973.394361] Nima-HSF [1002]==> in function <api_task_finish_job>: starts.
+[11973.394362] Nima-HSF [1002]==> in function <api_task_finish_job>: task_exec = 11, 1.
+[11973.394363] Nima-HSF [1002]==> in function <api_task_finish_job>: ends.
+[11973.524101] Nima-HSF [1035]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11973.524151] Nima-HSF [1035]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11973.524165] Nima-HSF [1035]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11973.524244] Nima-HSF [1035]==> in function <api_get_ctrl_data>: start.
+[11973.524247] Nima-HSF [1035]==> in function <find_slacks>: bandwidth = 50, 50.
+[11973.524248] Nima-HSF [1035]==> in function <find_slacks>: bandwidth = 5, 45.
+[11973.524249] Nima-HSF [1035]==> in function <find_slacks>: bandwidth = 64, 36.
+[11973.524250] Nima-HSF [1035]==> in function <api_get_ctrl_data>: init starts.
+[11973.524253] Nima-HSF [1035]==> in function <api_get_ctrl_data>: init finished.
+[11973.524268] Nima-HSF [1035]==> in function <api_get_ctrl_data>: server id = 2.
+[11973.524269] Nima-HSF [1035]==> in function <api_get_ctrl_data>: end of api call!.
+[11973.524338] Nima-HSF [1035]==> in function <api_set_server_param>: id = 2.
+[11973.524340] Nima-HSF [1035]==> in function <api_set_server_param>: period = 91.
+[11973.524341] Nima-HSF [1035]==> in function <api_set_server_param>: budget = 59.
+[11973.524342] Nima-HSF [1035]==> in function <api_set_server_param>: priority = 0.
+[11973.524343] Nima-HSF [1035]==> in function <api_set_server_param>: proc_id = 1.
+[11973.524344] Nima-HSF [1035]==> in function <api_set_server_param>: api call ends.
+[11973.524351] Nima-HSF [1035]==> in function <api_task_finish_job>: starts.
+[11973.524354] Nima-HSF [1035]==> in function <api_task_finish_job>: task_exec = 6, 0.
+[11973.524355] Nima-HSF [1035]==> in function <api_task_finish_job>: ends.
+[11973.564078] Nima-HSF [1045]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11973.564111] Nima-HSF [1045]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11973.612091] Nima-HSF [1057]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11973.612127] Nima-HSF [1057]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11973.704046] Nima-HSF [1080]==> in function <server_release_handler>: start--------------------------- = 0.
+[11973.704088] Nima-HSF [1080]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11973.740048] Nima-HSF [1089]==> in function <server_release_handler>: start--------------------------- = 2.
+[11973.740078] Nima-HSF [1089]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11973.788861] Nima-HSF [1101]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11973.788903] Nima-HSF [1101]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11973.794258] Nima-HSF [1102]==> in function <api_task_finish_job>: starts.
+[11973.794262] Nima-HSF [1102]==> in function <api_task_finish_job>: task_exec = 12, 1.
+[11973.794263] Nima-HSF [1102]==> in function <api_task_finish_job>: ends.
+[11973.794403] Nima-HSF [1102]==> in function <api_task_finish_job>: starts.
+[11973.794407] Nima-HSF [1102]==> in function <api_task_finish_job>: task_exec = 12, 1.
+[11973.794408] Nima-HSF [1102]==> in function <api_task_finish_job>: ends.
+[11973.884048] Nima-HSF [1125]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11973.884077] Nima-HSF [1125]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11973.976082] Nima-HSF [1148]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11973.976087] Nima-HSF [1148]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11974.064097] Nima-HSF [1170]==> in function <server_release_handler>: start--------------------------- = 0.
+[11974.064132] Nima-HSF [1170]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11974.104098] Nima-HSF [1180]==> in function <server_release_handler>: start--------------------------- = 2.
+[11974.104138] Nima-HSF [1180]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11974.188873] Nima-HSF [1201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11974.188902] Nima-HSF [1201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11974.188918] Nima-HSF [1201]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11974.188940] Nima-HSF [1201]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11974.194193] Nima-HSF [1202]==> in function <api_task_finish_job>: starts.
+[11974.194198] Nima-HSF [1202]==> in function <api_task_finish_job>: task_exec = 13, 1.
+[11974.194202] Nima-HSF [1202]==> in function <api_task_finish_job>: ends.
+[11974.194537] Nima-HSF [1202]==> in function <api_task_finish_job>: starts.
+[11974.194540] Nima-HSF [1202]==> in function <api_task_finish_job>: task_exec = 13, 1.
+[11974.194547] Nima-HSF [1202]==> in function <api_task_finish_job>: ends.
+[11974.244089] Nima-HSF [1215]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11974.244144] Nima-HSF [1215]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11974.244164] Nima-HSF [1215]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11974.244245] Nima-HSF [1215]==> in function <api_get_ctrl_data>: start.
+[11974.244248] Nima-HSF [1215]==> in function <find_slacks>: bandwidth = 50, 50.
+[11974.244249] Nima-HSF [1215]==> in function <find_slacks>: bandwidth = 5, 45.
+[11974.244250] Nima-HSF [1215]==> in function <find_slacks>: bandwidth = 64, 36.
+[11974.244251] Nima-HSF [1215]==> in function <api_get_ctrl_data>: init starts.
+[11974.244252] Nima-HSF [1215]==> in function <api_get_ctrl_data>: init finished.
+[11974.244253] Nima-HSF [1215]==> in function <api_get_ctrl_data>: server id = 2.
+[11974.244255] Nima-HSF [1215]==> in function <api_get_ctrl_data>: end of api call!.
+[11974.244335] Nima-HSF [1215]==> in function <api_set_server_param>: id = 2.
+[11974.244336] Nima-HSF [1215]==> in function <api_set_server_param>: period = 91.
+[11974.244337] Nima-HSF [1215]==> in function <api_set_server_param>: budget = 59.
+[11974.244338] Nima-HSF [1215]==> in function <api_set_server_param>: priority = 0.
+[11974.244339] Nima-HSF [1215]==> in function <api_set_server_param>: proc_id = 1.
+[11974.244340] Nima-HSF [1215]==> in function <api_set_server_param>: api call ends.
+[11974.244349] Nima-HSF [1215]==> in function <api_task_finish_job>: starts.
+[11974.244352] Nima-HSF [1215]==> in function <api_task_finish_job>: task_exec = 7, 0.
+[11974.244353] Nima-HSF [1215]==> in function <api_task_finish_job>: ends.
+[11974.284048] Nima-HSF [1225]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11974.284053] Nima-HSF [1225]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11974.340111] Nima-HSF [1239]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11974.340140] Nima-HSF [1239]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11974.424043] Nima-HSF [1260]==> in function <server_release_handler>: start--------------------------- = 0.
+[11974.424057] Nima-HSF [1260]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11974.468032] Nima-HSF [1271]==> in function <server_release_handler>: start--------------------------- = 2.
+[11974.468049] Nima-HSF [1271]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11974.589098] Nima-HSF [1301]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11974.589153] Nima-HSF [1301]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11974.595051] Nima-HSF [1302]==> in function <api_task_finish_job>: starts.
+[11974.595054] Nima-HSF [1302]==> in function <api_task_finish_job>: task_exec = 14, 1.
+[11974.595056] Nima-HSF [1302]==> in function <api_task_finish_job>: ends.
+[11974.598559] Nima-HSF [1303]==> in function <api_task_finish_job>: starts.
+[11974.598563] Nima-HSF [1303]==> in function <api_task_finish_job>: task_exec = 14, 2.
+[11974.598565] Nima-HSF [1303]==> in function <api_task_finish_job>: ends.
+[11974.604071] Nima-HSF [1305]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11974.604082] Nima-HSF [1305]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11974.704109] Nima-HSF [1330]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11974.704144] Nima-HSF [1330]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11974.784052] Nima-HSF [1350]==> in function <server_release_handler>: start--------------------------- = 0.
+[11974.784063] Nima-HSF [1350]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11974.832058] Nima-HSF [1362]==> in function <server_release_handler>: start--------------------------- = 2.
+[11974.832104] Nima-HSF [1362]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11974.964082] Nima-HSF [1395]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11974.964124] Nima-HSF [1395]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11974.988053] Nima-HSF [1401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11974.988090] Nima-HSF [1401]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11974.988103] Nima-HSF [1401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11974.988107] Nima-HSF [1401]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11974.988185] Nima-HSF [1401]==> in function <api_get_ctrl_data>: start.
+[11974.988187] Nima-HSF [1401]==> in function <find_slacks>: bandwidth = 50, 50.
+[11974.988188] Nima-HSF [1401]==> in function <find_slacks>: bandwidth = 5, 45.
+[11974.988189] Nima-HSF [1401]==> in function <find_slacks>: bandwidth = 64, 36.
+[11974.988190] Nima-HSF [1401]==> in function <api_get_ctrl_data>: init starts.
+[11974.988191] Nima-HSF [1401]==> in function <api_get_ctrl_data>: init finished.
+[11974.988192] Nima-HSF [1401]==> in function <api_get_ctrl_data>: server id = 2.
+[11974.988194] Nima-HSF [1401]==> in function <api_get_ctrl_data>: end of api call!.
+[11974.988280] Nima-HSF [1401]==> in function <api_set_server_param>: id = 2.
+[11974.988281] Nima-HSF [1401]==> in function <api_set_server_param>: period = 92.
+[11974.988282] Nima-HSF [1401]==> in function <api_set_server_param>: budget = 59.
+[11974.988283] Nima-HSF [1401]==> in function <api_set_server_param>: priority = 0.
+[11974.988284] Nima-HSF [1401]==> in function <api_set_server_param>: proc_id = 1.
+[11974.988285] Nima-HSF [1401]==> in function <api_set_server_param>: api call ends.
+[11974.988294] Nima-HSF [1401]==> in function <api_task_finish_job>: starts.
+[11974.988296] Nima-HSF [1401]==> in function <api_task_finish_job>: task_exec = 8, 0.
+[11974.988297] Nima-HSF [1401]==> in function <api_task_finish_job>: ends.
+[11974.993363] Nima-HSF [1402]==> in function <api_task_finish_job>: starts.
+[11974.993365] Nima-HSF [1402]==> in function <api_task_finish_job>: task_exec = 15, 1.
+[11974.993366] Nima-HSF [1402]==> in function <api_task_finish_job>: ends.
+[11975.028087] Nima-HSF [1411]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11975.028114] Nima-HSF [1411]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11975.068090] Nima-HSF [1421]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11975.068122] Nima-HSF [1421]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11975.144088] Nima-HSF [1440]==> in function <server_release_handler>: start--------------------------- = 0.
+[11975.144134] Nima-HSF [1440]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11975.144148] Nima-HSF [1440]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11975.149459] Nima-HSF [1441]==> in function <api_task_finish_job>: starts.
+[11975.149462] Nima-HSF [1441]==> in function <api_task_finish_job>: task_exec = 15, 1.
+[11975.149463] Nima-HSF [1441]==> in function <api_task_finish_job>: ends.
+[11975.196082] Nima-HSF [1453]==> in function <server_release_handler>: start--------------------------- = 2.
+[11975.196125] Nima-HSF [1453]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11975.324079] Nima-HSF [1485]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11975.324106] Nima-HSF [1485]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11975.388055] Nima-HSF [1501]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11975.393373] Nima-HSF [1502]==> in function <api_task_finish_job>: starts.
+[11975.393375] Nima-HSF [1502]==> in function <api_task_finish_job>: task_exec = 16, 1.
+[11975.393377] Nima-HSF [1502]==> in function <api_task_finish_job>: ends.
+[11975.432066] Nima-HSF [1512]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11975.432094] Nima-HSF [1512]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11975.504093] Nima-HSF [1530]==> in function <server_release_handler>: start--------------------------- = 0.
+[11975.504135] Nima-HSF [1530]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11975.504150] Nima-HSF [1530]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11975.509432] Nima-HSF [1531]==> in function <api_task_finish_job>: starts.
+[11975.509436] Nima-HSF [1531]==> in function <api_task_finish_job>: task_exec = 16, 1.
+[11975.509438] Nima-HSF [1531]==> in function <api_task_finish_job>: ends.
+[11975.564105] Nima-HSF [1545]==> in function <server_release_handler>: start--------------------------- = 2.
+[11975.564144] Nima-HSF [1545]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11975.684056] Nima-HSF [1575]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11975.684084] Nima-HSF [1575]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11975.788059] Nima-HSF [1601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11975.788097] Nima-HSF [1601]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11975.788109] Nima-HSF [1601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11975.788113] Nima-HSF [1601]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11975.788987] Nima-HSF [1601]==> in function <api_get_ctrl_data>: start.
+[11975.788989] Nima-HSF [1601]==> in function <find_slacks>: bandwidth = 50, 50.
+[11975.788990] Nima-HSF [1601]==> in function <find_slacks>: bandwidth = 5, 45.
+[11975.788992] Nima-HSF [1601]==> in function <find_slacks>: bandwidth = 64, 36.
+[11975.788993] Nima-HSF [1601]==> in function <api_get_ctrl_data>: init starts.
+[11975.788994] Nima-HSF [1601]==> in function <api_get_ctrl_data>: init finished.
+[11975.788995] Nima-HSF [1601]==> in function <api_get_ctrl_data>: server id = 2.
+[11975.788996] Nima-HSF [1601]==> in function <api_get_ctrl_data>: end of api call!.
+[11975.789051] Nima-HSF [1601]==> in function <api_set_server_param>: id = 2.
+[11975.789052] Nima-HSF [1601]==> in function <api_set_server_param>: period = 92.
+[11975.789053] Nima-HSF [1601]==> in function <api_set_server_param>: budget = 59.
+[11975.789054] Nima-HSF [1601]==> in function <api_set_server_param>: priority = 0.
+[11975.789055] Nima-HSF [1601]==> in function <api_set_server_param>: proc_id = 1.
+[11975.789056] Nima-HSF [1601]==> in function <api_set_server_param>: api call ends.
+[11975.789063] Nima-HSF [1601]==> in function <api_task_finish_job>: starts.
+[11975.789065] Nima-HSF [1601]==> in function <api_task_finish_job>: task_exec = 9, 0.
+[11975.789066] Nima-HSF [1601]==> in function <api_task_finish_job>: ends.
+[11975.793098] Nima-HSF [1602]==> in function <api_task_finish_job>: starts.
+[11975.793099] Nima-HSF [1602]==> in function <api_task_finish_job>: task_exec = 17, 1.
+[11975.793101] Nima-HSF [1602]==> in function <api_task_finish_job>: ends.
+[11975.800073] Nima-HSF [1604]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11975.800075] Nima-HSF [1604]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11975.828063] Nima-HSF [1611]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11975.828097] Nima-HSF [1611]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11975.864049] Nima-HSF [1620]==> in function <server_release_handler>: start--------------------------- = 0.
+[11975.864086] Nima-HSF [1620]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11975.864099] Nima-HSF [1620]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11975.869425] Nima-HSF [1621]==> in function <api_task_finish_job>: starts.
+[11975.869428] Nima-HSF [1621]==> in function <api_task_finish_job>: task_exec = 17, 1.
+[11975.869430] Nima-HSF [1621]==> in function <api_task_finish_job>: ends.
+[11975.932064] Nima-HSF [1637]==> in function <server_release_handler>: start--------------------------- = 2.
+[11975.932100] Nima-HSF [1637]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11976.044087] Nima-HSF [1665]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11976.044116] Nima-HSF [1665]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11976.168046] Nima-HSF [1696]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11976.168071] Nima-HSF [1696]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11976.224050] Nima-HSF [1710]==> in function <server_release_handler>: start--------------------------- = 0.
+[11976.224075] Nima-HSF [1710]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11976.224077] Nima-HSF [1710]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11976.229355] Nima-HSF [1711]==> in function <api_task_finish_job>: starts.
+[11976.229362] Nima-HSF [1711]==> in function <api_task_finish_job>: task_exec = 18, 1.
+[11976.229366] Nima-HSF [1711]==> in function <api_task_finish_job>: ends.
+[11976.300051] Nima-HSF [1729]==> in function <server_release_handler>: start--------------------------- = 2.
+[11976.300077] Nima-HSF [1729]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11976.300104] Nima-HSF [1729]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11976.305334] Nima-HSF [1730]==> in function <api_task_finish_job>: starts.
+[11976.305336] Nima-HSF [1730]==> in function <api_task_finish_job>: task_exec = 18, 1.
+[11976.305337] Nima-HSF [1730]==> in function <api_task_finish_job>: ends.
+[11976.404060] Nima-HSF [1755]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11976.404093] Nima-HSF [1755]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11976.536106] Nima-HSF [1788]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11976.536134] Nima-HSF [1788]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11976.584091] Nima-HSF [1800]==> in function <server_release_handler>: start--------------------------- = 0.
+[11976.584133] Nima-HSF [1800]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11976.588045] Nima-HSF [1801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11976.588048] Nima-HSF [1801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11976.588068] Nima-HSF [1801]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11976.593410] Nima-HSF [1802]==> in function <api_task_finish_job>: starts.
+[11976.593415] Nima-HSF [1802]==> in function <api_task_finish_job>: task_exec = 19, 1.
+[11976.593419] Nima-HSF [1802]==> in function <api_task_finish_job>: ends.
+[11976.668092] Nima-HSF [1821]==> in function <server_release_handler>: start--------------------------- = 2.
+[11976.668106] Nima-HSF [1821]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11976.668108] Nima-HSF [1821]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11976.673160] Nima-HSF [1822]==> in function <api_task_finish_job>: starts.
+[11976.673163] Nima-HSF [1822]==> in function <api_task_finish_job>: task_exec = 19, 1.
+[11976.673164] Nima-HSF [1822]==> in function <api_task_finish_job>: ends.
+[11976.764067] Nima-HSF [1845]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11976.764113] Nima-HSF [1845]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11976.764129] Nima-HSF [1845]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11976.764202] Nima-HSF [1845]==> in function <api_get_ctrl_data>: start.
+[11976.764204] Nima-HSF [1845]==> in function <find_slacks>: bandwidth = 50, 50.
+[11976.764205] Nima-HSF [1845]==> in function <find_slacks>: bandwidth = 5, 45.
+[11976.764206] Nima-HSF [1845]==> in function <find_slacks>: bandwidth = 64, 36.
+[11976.764207] Nima-HSF [1845]==> in function <api_get_ctrl_data>: init starts.
+[11976.764208] Nima-HSF [1845]==> in function <api_get_ctrl_data>: init finished.
+[11976.764210] Nima-HSF [1845]==> in function <api_get_ctrl_data>: server id = 2.
+[11976.764211] Nima-HSF [1845]==> in function <api_get_ctrl_data>: end of api call!.
+[11976.764275] Nima-HSF [1845]==> in function <api_set_server_param>: id = 2.
+[11976.764277] Nima-HSF [1845]==> in function <api_set_server_param>: period = 92.
+[11976.764278] Nima-HSF [1845]==> in function <api_set_server_param>: budget = 59.
+[11976.764278] Nima-HSF [1845]==> in function <api_set_server_param>: priority = 0.
+[11976.764279] Nima-HSF [1845]==> in function <api_set_server_param>: proc_id = 1.
+[11976.764280] Nima-HSF [1845]==> in function <api_set_server_param>: api call ends.
+[11976.764289] Nima-HSF [1845]==> in function <api_task_finish_job>: starts.
+[11976.764291] Nima-HSF [1845]==> in function <api_task_finish_job>: task_exec = 10, 0.
+[11976.764292] Nima-HSF [1845]==> in function <api_task_finish_job>: ends.
+[11976.804070] Nima-HSF [1855]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11976.804118] Nima-HSF [1855]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11976.904062] Nima-HSF [1880]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11976.904093] Nima-HSF [1880]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11976.944088] Nima-HSF [1890]==> in function <server_release_handler>: start--------------------------- = 0.
+[11976.944138] Nima-HSF [1890]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11976.988922] Nima-HSF [1901]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11976.994243] Nima-HSF [1902]==> in function <api_task_finish_job>: starts.
+[11976.994246] Nima-HSF [1902]==> in function <api_task_finish_job>: task_exec = 20, 1.
+[11976.994248] Nima-HSF [1902]==> in function <api_task_finish_job>: ends.
+[11977.036097] Nima-HSF [1913]==> in function <server_release_handler>: start--------------------------- = 2.
+[11977.036131] Nima-HSF [1913]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11977.036160] Nima-HSF [1913]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11977.041426] Nima-HSF [1914]==> in function <api_task_finish_job>: starts.
+[11977.041428] Nima-HSF [1914]==> in function <api_task_finish_job>: task_exec = 20, 1.
+[11977.041429] Nima-HSF [1914]==> in function <api_task_finish_job>: ends.
+[11977.124081] Nima-HSF [1935]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11977.124112] Nima-HSF [1935]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11977.272095] Nima-HSF [1972]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11977.272123] Nima-HSF [1972]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11977.304061] Nima-HSF [1980]==> in function <server_release_handler>: start--------------------------- = 0.
+[11977.304097] Nima-HSF [1980]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11977.388058] Nima-HSF [2001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11977.388083] Nima-HSF [2001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11977.388104] Nima-HSF [2001]==> in function <run_first_element>: ***task is_running in server = 5, 0.
+[11977.388981] Nima-HSF [2001]==> in function <api_detach_task>: starts!.
+[11977.388985] Nima-HSF [2001]==> in function <api_detach_task>: api call from task = 5.
+[11977.404078] Nima-HSF [2005]==> in function <server_release_handler>: start--------------------------- = 2.
+[11977.404088] Nima-HSF [2005]==> in function <run_first_element>: ***task is_running in server = 2, 2.
+[11977.404097] Nima-HSF [2005]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11977.404157] Nima-HSF [2005]==> in function <api_detach_task>: starts!.
+[11977.404159] Nima-HSF [2005]==> in function <api_detach_task>: api call from task = 2.
+[11977.484073] Nima-HSF [2025]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11977.484118] Nima-HSF [2025]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11977.484132] Nima-HSF [2025]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11977.484208] Nima-HSF [2025]==> in function <api_get_ctrl_data>: start.
+[11977.484210] Nima-HSF [2025]==> in function <find_slacks>: bandwidth = 50, 50.
+[11977.484212] Nima-HSF [2025]==> in function <find_slacks>: bandwidth = 5, 45.
+[11977.484213] Nima-HSF [2025]==> in function <find_slacks>: bandwidth = 64, 36.
+[11977.484214] Nima-HSF [2025]==> in function <api_get_ctrl_data>: init starts.
+[11977.484215] Nima-HSF [2025]==> in function <api_get_ctrl_data>: init finished.
+[11977.484216] Nima-HSF [2025]==> in function <api_get_ctrl_data>: server id = 2.
+[11977.484217] Nima-HSF [2025]==> in function <api_get_ctrl_data>: end of api call!.
+[11977.484292] Nima-HSF [2025]==> in function <api_set_server_param>: id = 2.
+[11977.484294] Nima-HSF [2025]==> in function <api_set_server_param>: period = 92.
+[11977.484295] Nima-HSF [2025]==> in function <api_set_server_param>: budget = 59.
+[11977.484296] Nima-HSF [2025]==> in function <api_set_server_param>: priority = 0.
+[11977.484297] Nima-HSF [2025]==> in function <api_set_server_param>: proc_id = 1.
+[11977.484298] Nima-HSF [2025]==> in function <api_set_server_param>: api call ends.
+[11977.484306] Nima-HSF [2025]==> in function <api_task_finish_job>: starts.
+[11977.484309] Nima-HSF [2025]==> in function <api_task_finish_job>: task_exec = 11, 0.
+[11977.484310] Nima-HSF [2025]==> in function <api_task_finish_job>: ends.
+[11977.524057] Nima-HSF [2035]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11977.524087] Nima-HSF [2035]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11977.640061] Nima-HSF [2064]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11977.640093] Nima-HSF [2064]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11977.664094] Nima-HSF [2070]==> in function <server_release_handler>: start--------------------------- = 0.
+[11977.664128] Nima-HSF [2070]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11977.772100] Nima-HSF [2097]==> in function <server_release_handler>: start--------------------------- = 2.
+[11977.772135] Nima-HSF [2097]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11977.844057] Nima-HSF [2115]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11977.844099] Nima-HSF [2115]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11978.008062] Nima-HSF [2156]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11978.008095] Nima-HSF [2156]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11978.024053] Nima-HSF [2160]==> in function <server_release_handler>: start--------------------------- = 0.
+[11978.024085] Nima-HSF [2160]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11978.140088] Nima-HSF [2189]==> in function <server_release_handler>: start--------------------------- = 2.
+[11978.140120] Nima-HSF [2189]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11978.188052] Nima-HSF [2201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11978.188077] Nima-HSF [2201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11978.204086] Nima-HSF [2205]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11978.204124] Nima-HSF [2205]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11978.204135] Nima-HSF [2205]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11978.204221] Nima-HSF [2205]==> in function <api_get_ctrl_data>: start.
+[11978.204223] Nima-HSF [2205]==> in function <find_slacks>: bandwidth = 50, 50.
+[11978.204225] Nima-HSF [2205]==> in function <find_slacks>: bandwidth = 5, 45.
+[11978.204226] Nima-HSF [2205]==> in function <find_slacks>: bandwidth = 64, 36.
+[11978.204227] Nima-HSF [2205]==> in function <api_get_ctrl_data>: init starts.
+[11978.204228] Nima-HSF [2205]==> in function <api_get_ctrl_data>: init finished.
+[11978.204229] Nima-HSF [2205]==> in function <api_get_ctrl_data>: server id = 2.
+[11978.204230] Nima-HSF [2205]==> in function <api_get_ctrl_data>: end of api call!.
+[11978.204285] Nima-HSF [2205]==> in function <api_set_server_param>: id = 2.
+[11978.204286] Nima-HSF [2205]==> in function <api_set_server_param>: period = 92.
+[11978.204287] Nima-HSF [2205]==> in function <api_set_server_param>: budget = 59.
+[11978.204288] Nima-HSF [2205]==> in function <api_set_server_param>: priority = 0.
+[11978.204289] Nima-HSF [2205]==> in function <api_set_server_param>: proc_id = 1.
+[11978.204290] Nima-HSF [2205]==> in function <api_set_server_param>: api call ends.
+[11978.204298] Nima-HSF [2205]==> in function <api_task_finish_job>: starts.
+[11978.204300] Nima-HSF [2205]==> in function <api_task_finish_job>: task_exec = 12, 0.
+[11978.204301] Nima-HSF [2205]==> in function <api_task_finish_job>: ends.
+[11978.244061] Nima-HSF [2215]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11978.244092] Nima-HSF [2215]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11978.376059] Nima-HSF [2248]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11978.376088] Nima-HSF [2248]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11978.384050] Nima-HSF [2250]==> in function <server_release_handler>: start--------------------------- = 0.
+[11978.384060] Nima-HSF [2250]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11978.508077] Nima-HSF [2281]==> in function <server_release_handler>: start--------------------------- = 2.
+[11978.508111] Nima-HSF [2281]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11978.564089] Nima-HSF [2295]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11978.564114] Nima-HSF [2295]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11978.744089] Nima-HSF [2340]==> in function <server_release_handler>: start--------------------------- = 0.
+[11978.744123] Nima-HSF [2340]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11978.744125] Nima-HSF [2340]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11978.744127] Nima-HSF [2340]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11978.876089] Nima-HSF [2373]==> in function <server_release_handler>: start--------------------------- = 2.
+[11978.876135] Nima-HSF [2373]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11978.924086] Nima-HSF [2385]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11978.924110] Nima-HSF [2385]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11978.988893] Nima-HSF [2401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11978.988935] Nima-HSF [2401]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11978.988953] Nima-HSF [2401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11978.989042] Nima-HSF [2401]==> in function <api_get_ctrl_data>: start.
+[11978.989045] Nima-HSF [2401]==> in function <find_slacks>: bandwidth = 50, 50.
+[11978.989047] Nima-HSF [2401]==> in function <find_slacks>: bandwidth = 5, 45.
+[11978.989048] Nima-HSF [2401]==> in function <find_slacks>: bandwidth = 64, 36.
+[11978.989049] Nima-HSF [2401]==> in function <api_get_ctrl_data>: init starts.
+[11978.989050] Nima-HSF [2401]==> in function <api_get_ctrl_data>: init finished.
+[11978.989051] Nima-HSF [2401]==> in function <api_get_ctrl_data>: server id = 2.
+[11978.989054] Nima-HSF [2401]==> in function <api_get_ctrl_data>: end of api call!.
+[11978.989113] Nima-HSF [2401]==> in function <api_set_server_param>: id = 2.
+[11978.989114] Nima-HSF [2401]==> in function <api_set_server_param>: period = 92.
+[11978.989115] Nima-HSF [2401]==> in function <api_set_server_param>: budget = 59.
+[11978.989116] Nima-HSF [2401]==> in function <api_set_server_param>: priority = 0.
+[11978.989117] Nima-HSF [2401]==> in function <api_set_server_param>: proc_id = 1.
+[11978.989118] Nima-HSF [2401]==> in function <api_set_server_param>: api call ends.
+[11978.989126] Nima-HSF [2401]==> in function <api_task_finish_job>: starts.
+[11978.989128] Nima-HSF [2401]==> in function <api_task_finish_job>: task_exec = 13, 0.
+[11978.989129] Nima-HSF [2401]==> in function <api_task_finish_job>: ends.
+[11979.028088] Nima-HSF [2411]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11979.028124] Nima-HSF [2411]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11979.104092] Nima-HSF [2430]==> in function <server_release_handler>: start--------------------------- = 0.
+[11979.104128] Nima-HSF [2430]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11979.112051] Nima-HSF [2432]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11979.112075] Nima-HSF [2432]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11979.244087] Nima-HSF [2465]==> in function <server_release_handler>: start--------------------------- = 2.
+[11979.244119] Nima-HSF [2465]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11979.284093] Nima-HSF [2475]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11979.284098] Nima-HSF [2475]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11979.464092] Nima-HSF [2520]==> in function <server_release_handler>: start--------------------------- = 0.
+[11979.464128] Nima-HSF [2520]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11979.480857] Nima-HSF [2524]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11979.480881] Nima-HSF [2524]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11979.612107] Nima-HSF [2557]==> in function <server_release_handler>: start--------------------------- = 2.
+[11979.612148] Nima-HSF [2557]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11979.644052] Nima-HSF [2565]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11979.644077] Nima-HSF [2565]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11979.788895] Nima-HSF [2601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11979.789016] Nima-HSF [2601]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11979.789029] Nima-HSF [2601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11979.789126] Nima-HSF [2601]==> in function <api_get_ctrl_data>: start.
+[11979.789129] Nima-HSF [2601]==> in function <find_slacks>: bandwidth = 50, 50.
+[11979.789130] Nima-HSF [2601]==> in function <find_slacks>: bandwidth = 5, 45.
+[11979.789133] Nima-HSF [2601]==> in function <find_slacks>: bandwidth = 64, 36.
+[11979.789135] Nima-HSF [2601]==> in function <api_get_ctrl_data>: init starts.
+[11979.789136] Nima-HSF [2601]==> in function <api_get_ctrl_data>: init finished.
+[11979.789137] Nima-HSF [2601]==> in function <api_get_ctrl_data>: server id = 2.
+[11979.789139] Nima-HSF [2601]==> in function <api_get_ctrl_data>: end of api call!.
+[11979.789193] Nima-HSF [2601]==> in function <api_set_server_param>: id = 2.
+[11979.789194] Nima-HSF [2601]==> in function <api_set_server_param>: period = 92.
+[11979.789195] Nima-HSF [2601]==> in function <api_set_server_param>: budget = 59.
+[11979.789196] Nima-HSF [2601]==> in function <api_set_server_param>: priority = 0.
+[11979.789197] Nima-HSF [2601]==> in function <api_set_server_param>: proc_id = 1.
+[11979.789198] Nima-HSF [2601]==> in function <api_set_server_param>: api call ends.
+[11979.789205] Nima-HSF [2601]==> in function <api_task_finish_job>: starts.
+[11979.789208] Nima-HSF [2601]==> in function <api_task_finish_job>: task_exec = 14, 0.
+[11979.789209] Nima-HSF [2601]==> in function <api_task_finish_job>: ends.
+[11979.824068] Nima-HSF [2610]==> in function <server_release_handler>: start--------------------------- = 0.
+[11979.824074] Nima-HSF [2610]==> in function <server_context_switch>: stop active server and remove its budget deplition timer.
+[11979.824075] Nima-HSF [2610]==> in function <server_context_switch>: active server - new server = 1, 0.
+[11979.824077] Nima-HSF [2610]==> in function <server_context_switch>: total_budget = 139.
+[11979.824078] Nima-HSF [2610]==> in function <server_context_switch>: active_server->current_budget - consumed_budget = 1, 9.
+[11979.824085] Nima-HSF [2610]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11979.848079] Nima-HSF [2616]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11979.848106] Nima-HSF [2616]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11979.980100] Nima-HSF [2649]==> in function <server_release_handler>: start--------------------------- = 2.
+[11979.980139] Nima-HSF [2649]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11980.004092] Nima-HSF [2655]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11980.004133] Nima-HSF [2655]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11980.008082] Nima-HSF [2656]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11980.008084] Nima-HSF [2656]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11980.184093] Nima-HSF [2700]==> in function <server_release_handler>: start--------------------------- = 0.
+[11980.184107] Nima-HSF [2700]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11980.216087] Nima-HSF [2708]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11980.216114] Nima-HSF [2708]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11980.348087] Nima-HSF [2741]==> in function <server_release_handler>: start--------------------------- = 2.
+[11980.348124] Nima-HSF [2741]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11980.364049] Nima-HSF [2745]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11980.364073] Nima-HSF [2745]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11980.544061] Nima-HSF [2790]==> in function <server_release_handler>: start--------------------------- = 0.
+[11980.544098] Nima-HSF [2790]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11980.584087] Nima-HSF [2800]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11980.584090] Nima-HSF [2800]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11980.588075] Nima-HSF [2801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11980.588077] Nima-HSF [2801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11980.716086] Nima-HSF [2833]==> in function <server_release_handler>: start--------------------------- = 2.
+[11980.716126] Nima-HSF [2833]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11980.724063] Nima-HSF [2835]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11980.724100] Nima-HSF [2835]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11980.724111] Nima-HSF [2835]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11980.724199] Nima-HSF [2835]==> in function <api_get_ctrl_data>: start.
+[11980.724202] Nima-HSF [2835]==> in function <find_slacks>: bandwidth = 50, 50.
+[11980.724203] Nima-HSF [2835]==> in function <find_slacks>: bandwidth = 5, 45.
+[11980.724204] Nima-HSF [2835]==> in function <find_slacks>: bandwidth = 64, 36.
+[11980.724205] Nima-HSF [2835]==> in function <api_get_ctrl_data>: init starts.
+[11980.724206] Nima-HSF [2835]==> in function <api_get_ctrl_data>: init finished.
+[11980.724207] Nima-HSF [2835]==> in function <api_get_ctrl_data>: server id = 2.
+[11980.724209] Nima-HSF [2835]==> in function <api_get_ctrl_data>: end of api call!.
+[11980.724263] Nima-HSF [2835]==> in function <api_set_server_param>: id = 2.
+[11980.724264] Nima-HSF [2835]==> in function <api_set_server_param>: period = 92.
+[11980.724265] Nima-HSF [2835]==> in function <api_set_server_param>: budget = 59.
+[11980.724266] Nima-HSF [2835]==> in function <api_set_server_param>: priority = 0.
+[11980.724267] Nima-HSF [2835]==> in function <api_set_server_param>: proc_id = 1.
+[11980.724268] Nima-HSF [2835]==> in function <api_set_server_param>: api call ends.
+[11980.724275] Nima-HSF [2835]==> in function <api_task_finish_job>: starts.
+[11980.724278] Nima-HSF [2835]==> in function <api_task_finish_job>: task_exec = 15, 0.
+[11980.724279] Nima-HSF [2835]==> in function <api_task_finish_job>: ends.
+[11980.764079] Nima-HSF [2845]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11980.764113] Nima-HSF [2845]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11980.904082] Nima-HSF [2880]==> in function <server_release_handler>: start--------------------------- = 0.
+[11980.904133] Nima-HSF [2880]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11980.952114] Nima-HSF [2892]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11980.952149] Nima-HSF [2892]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11981.084102] Nima-HSF [2925]==> in function <server_release_handler>: start--------------------------- = 2.
+[11981.084138] Nima-HSF [2925]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11981.084140] Nima-HSF [2925]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11981.084142] Nima-HSF [2925]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11981.264109] Nima-HSF [2970]==> in function <server_release_handler>: start--------------------------- = 0.
+[11981.264156] Nima-HSF [2970]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11981.320092] Nima-HSF [2984]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11981.320119] Nima-HSF [2984]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11981.388059] Nima-HSF [3001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11981.388062] Nima-HSF [3001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11981.444104] Nima-HSF [3015]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11981.444147] Nima-HSF [3015]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11981.444161] Nima-HSF [3015]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11981.444228] Nima-HSF [3015]==> in function <api_get_ctrl_data>: start.
+[11981.444230] Nima-HSF [3015]==> in function <find_slacks>: bandwidth = 50, 50.
+[11981.444231] Nima-HSF [3015]==> in function <find_slacks>: bandwidth = 5, 45.
+[11981.444233] Nima-HSF [3015]==> in function <find_slacks>: bandwidth = 64, 36.
+[11981.444234] Nima-HSF [3015]==> in function <api_get_ctrl_data>: init starts.
+[11981.444238] Nima-HSF [3015]==> in function <api_get_ctrl_data>: init finished.
+[11981.444240] Nima-HSF [3015]==> in function <api_get_ctrl_data>: server id = 2.
+[11981.444241] Nima-HSF [3015]==> in function <api_get_ctrl_data>: end of api call!.
+[11981.444313] Nima-HSF [3015]==> in function <api_set_server_param>: id = 2.
+[11981.444315] Nima-HSF [3015]==> in function <api_set_server_param>: period = 92.
+[11981.444316] Nima-HSF [3015]==> in function <api_set_server_param>: budget = 59.
+[11981.444317] Nima-HSF [3015]==> in function <api_set_server_param>: priority = 0.
+[11981.444318] Nima-HSF [3015]==> in function <api_set_server_param>: proc_id = 1.
+[11981.444318] Nima-HSF [3015]==> in function <api_set_server_param>: api call ends.
+[11981.444327] Nima-HSF [3015]==> in function <api_task_finish_job>: starts.
+[11981.444329] Nima-HSF [3015]==> in function <api_task_finish_job>: task_exec = 16, 0.
+[11981.444331] Nima-HSF [3015]==> in function <api_task_finish_job>: ends.
+[11981.452077] Nima-HSF [3017]==> in function <server_release_handler>: start--------------------------- = 2.
+[11981.452084] Nima-HSF [3017]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11981.484071] Nima-HSF [3025]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11981.484109] Nima-HSF [3025]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11981.624090] Nima-HSF [3060]==> in function <server_release_handler>: start--------------------------- = 0.
+[11981.624166] Nima-HSF [3060]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11981.688056] Nima-HSF [3076]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11981.688060] Nima-HSF [3076]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11981.804051] Nima-HSF [3105]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11981.804093] Nima-HSF [3105]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11981.820047] Nima-HSF [3109]==> in function <server_release_handler>: start--------------------------- = 2.
+[11981.820079] Nima-HSF [3109]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11981.984099] Nima-HSF [3150]==> in function <server_release_handler>: start--------------------------- = 0.
+[11981.984139] Nima-HSF [3150]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11982.056091] Nima-HSF [3168]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11982.056124] Nima-HSF [3168]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11982.164090] Nima-HSF [3195]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11982.164119] Nima-HSF [3195]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11982.188051] Nima-HSF [3201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11982.188080] Nima-HSF [3201]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11982.188085] Nima-HSF [3201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11982.188087] Nima-HSF [3201]==> in function <server_release_handler>: start--------------------------- = 2.
+[11982.188093] Nima-HSF [3201]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11982.188188] Nima-HSF [3201]==> in function <api_get_ctrl_data>: start.
+[11982.188190] Nima-HSF [3201]==> in function <find_slacks>: bandwidth = 50, 50.
+[11982.188191] Nima-HSF [3201]==> in function <find_slacks>: bandwidth = 5, 45.
+[11982.188193] Nima-HSF [3201]==> in function <find_slacks>: bandwidth = 64, 36.
+[11982.188194] Nima-HSF [3201]==> in function <api_get_ctrl_data>: init starts.
+[11982.188194] Nima-HSF [3201]==> in function <api_get_ctrl_data>: init finished.
+[11982.188196] Nima-HSF [3201]==> in function <api_get_ctrl_data>: server id = 2.
+[11982.188197] Nima-HSF [3201]==> in function <api_get_ctrl_data>: end of api call!.
+[11982.188258] Nima-HSF [3201]==> in function <api_set_server_param>: id = 2.
+[11982.188260] Nima-HSF [3201]==> in function <api_set_server_param>: period = 93.
+[11982.188261] Nima-HSF [3201]==> in function <api_set_server_param>: budget = 59.
+[11982.188262] Nima-HSF [3201]==> in function <api_set_server_param>: priority = 0.
+[11982.188262] Nima-HSF [3201]==> in function <api_set_server_param>: proc_id = 1.
+[11982.188263] Nima-HSF [3201]==> in function <api_set_server_param>: api call ends.
+[11982.188271] Nima-HSF [3201]==> in function <api_task_finish_job>: starts.
+[11982.188274] Nima-HSF [3201]==> in function <api_task_finish_job>: task_exec = 17, 0.
+[11982.188275] Nima-HSF [3201]==> in function <api_task_finish_job>: ends.
+[11982.228082] Nima-HSF [3211]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11982.228118] Nima-HSF [3211]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11982.344095] Nima-HSF [3240]==> in function <server_release_handler>: start--------------------------- = 0.
+[11982.344130] Nima-HSF [3240]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11982.424137] Nima-HSF [3260]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11982.424165] Nima-HSF [3260]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11982.524089] Nima-HSF [3285]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11982.524115] Nima-HSF [3285]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11982.556082] Nima-HSF [3293]==> in function <server_release_handler>: start--------------------------- = 2.
+[11982.556116] Nima-HSF [3293]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11982.704087] Nima-HSF [3330]==> in function <server_release_handler>: start--------------------------- = 0.
+[11982.704121] Nima-HSF [3330]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11982.792083] Nima-HSF [3352]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11982.792085] Nima-HSF [3352]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11982.884055] Nima-HSF [3375]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11982.884092] Nima-HSF [3375]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11982.928082] Nima-HSF [3386]==> in function <server_release_handler>: start--------------------------- = 2.
+[11982.928114] Nima-HSF [3386]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11982.988058] Nima-HSF [3401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11982.988084] Nima-HSF [3401]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11982.988086] Nima-HSF [3401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11982.988196] Nima-HSF [3401]==> in function <api_get_ctrl_data>: start.
+[11982.988198] Nima-HSF [3401]==> in function <find_slacks>: bandwidth = 50, 50.
+[11982.988199] Nima-HSF [3401]==> in function <find_slacks>: bandwidth = 5, 45.
+[11982.988200] Nima-HSF [3401]==> in function <find_slacks>: bandwidth = 63, 37.
+[11982.988201] Nima-HSF [3401]==> in function <api_get_ctrl_data>: init starts.
+[11982.988202] Nima-HSF [3401]==> in function <api_get_ctrl_data>: init finished.
+[11982.988204] Nima-HSF [3401]==> in function <api_get_ctrl_data>: server id = 2.
+[11982.988205] Nima-HSF [3401]==> in function <api_get_ctrl_data>: end of api call!.
+[11982.988268] Nima-HSF [3401]==> in function <api_set_server_param>: id = 2.
+[11982.988269] Nima-HSF [3401]==> in function <api_set_server_param>: period = 93.
+[11982.988270] Nima-HSF [3401]==> in function <api_set_server_param>: budget = 60.
+[11982.988271] Nima-HSF [3401]==> in function <api_set_server_param>: priority = 0.
+[11982.988272] Nima-HSF [3401]==> in function <api_set_server_param>: proc_id = 1.
+[11982.988273] Nima-HSF [3401]==> in function <api_set_server_param>: api call ends.
+[11982.988289] Nima-HSF [3401]==> in function <api_task_finish_job>: starts.
+[11982.988291] Nima-HSF [3401]==> in function <api_task_finish_job>: task_exec = 18, 0.
+[11982.988293] Nima-HSF [3401]==> in function <api_task_finish_job>: ends.
+[11983.028083] Nima-HSF [3411]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11983.028118] Nima-HSF [3411]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11983.064049] Nima-HSF [3420]==> in function <server_release_handler>: start--------------------------- = 0.
+[11983.064082] Nima-HSF [3420]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11983.164048] Nima-HSF [3445]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11983.164079] Nima-HSF [3445]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11983.244101] Nima-HSF [3465]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11983.244149] Nima-HSF [3465]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11983.300084] Nima-HSF [3479]==> in function <server_release_handler>: start--------------------------- = 2.
+[11983.300118] Nima-HSF [3479]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11983.424080] Nima-HSF [3510]==> in function <server_release_handler>: start--------------------------- = 0.
+[11983.424130] Nima-HSF [3510]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11983.540875] Nima-HSF [3539]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11983.540908] Nima-HSF [3539]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11983.604085] Nima-HSF [3555]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11983.604109] Nima-HSF [3555]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11983.672094] Nima-HSF [3572]==> in function <server_release_handler>: start--------------------------- = 2.
+[11983.672144] Nima-HSF [3572]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11983.784056] Nima-HSF [3600]==> in function <server_release_handler>: start--------------------------- = 0.
+[11983.784091] Nima-HSF [3600]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11983.788070] Nima-HSF [3601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11983.788073] Nima-HSF [3601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11983.912094] Nima-HSF [3632]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11983.912140] Nima-HSF [3632]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11983.964110] Nima-HSF [3645]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11983.964163] Nima-HSF [3645]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11983.964180] Nima-HSF [3645]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11983.964253] Nima-HSF [3645]==> in function <api_get_ctrl_data>: start.
+[11983.964256] Nima-HSF [3645]==> in function <find_slacks>: bandwidth = 50, 50.
+[11983.964257] Nima-HSF [3645]==> in function <find_slacks>: bandwidth = 5, 45.
+[11983.964258] Nima-HSF [3645]==> in function <find_slacks>: bandwidth = 64, 36.
+[11983.964259] Nima-HSF [3645]==> in function <api_get_ctrl_data>: init starts.
+[11983.964260] Nima-HSF [3645]==> in function <api_get_ctrl_data>: init finished.
+[11983.964261] Nima-HSF [3645]==> in function <api_get_ctrl_data>: server id = 2.
+[11983.964263] Nima-HSF [3645]==> in function <api_get_ctrl_data>: end of api call!.
+[11983.964321] Nima-HSF [3645]==> in function <api_set_server_param>: id = 2.
+[11983.964322] Nima-HSF [3645]==> in function <api_set_server_param>: period = 93.
+[11983.964323] Nima-HSF [3645]==> in function <api_set_server_param>: budget = 59.
+[11983.964324] Nima-HSF [3645]==> in function <api_set_server_param>: priority = 0.
+[11983.964325] Nima-HSF [3645]==> in function <api_set_server_param>: proc_id = 1.
+[11983.964326] Nima-HSF [3645]==> in function <api_set_server_param>: api call ends.
+[11983.964334] Nima-HSF [3645]==> in function <api_task_finish_job>: starts.
+[11983.964336] Nima-HSF [3645]==> in function <api_task_finish_job>: task_exec = 19, 0.
+[11983.964337] Nima-HSF [3645]==> in function <api_task_finish_job>: ends.
+[11984.004057] Nima-HSF [3655]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11984.004100] Nima-HSF [3655]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11984.044060] Nima-HSF [3665]==> in function <server_release_handler>: start--------------------------- = 2.
+[11984.044101] Nima-HSF [3665]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11984.144095] Nima-HSF [3690]==> in function <server_release_handler>: start--------------------------- = 0.
+[11984.144137] Nima-HSF [3690]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11984.280082] Nima-HSF [3724]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11984.280112] Nima-HSF [3724]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11984.324096] Nima-HSF [3735]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11984.324135] Nima-HSF [3735]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11984.416092] Nima-HSF [3758]==> in function <server_release_handler>: start--------------------------- = 2.
+[11984.416129] Nima-HSF [3758]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11984.504065] Nima-HSF [3780]==> in function <server_release_handler>: start--------------------------- = 0.
+[11984.504103] Nima-HSF [3780]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11984.588088] Nima-HSF [3801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11984.588153] Nima-HSF [3801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11984.652088] Nima-HSF [3817]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11984.652115] Nima-HSF [3817]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11984.684082] Nima-HSF [3825]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11984.684116] Nima-HSF [3825]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11984.684127] Nima-HSF [3825]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11984.684204] Nima-HSF [3825]==> in function <api_get_ctrl_data>: start.
+[11984.684206] Nima-HSF [3825]==> in function <find_slacks>: bandwidth = 50, 50.
+[11984.684208] Nima-HSF [3825]==> in function <find_slacks>: bandwidth = 5, 45.
+[11984.684209] Nima-HSF [3825]==> in function <find_slacks>: bandwidth = 63, 37.
+[11984.684210] Nima-HSF [3825]==> in function <api_get_ctrl_data>: init starts.
+[11984.684211] Nima-HSF [3825]==> in function <api_get_ctrl_data>: init finished.
+[11984.684212] Nima-HSF [3825]==> in function <api_get_ctrl_data>: server id = 2.
+[11984.684213] Nima-HSF [3825]==> in function <api_get_ctrl_data>: end of api call!.
+[11984.684267] Nima-HSF [3825]==> in function <api_set_server_param>: id = 2.
+[11984.684268] Nima-HSF [3825]==> in function <api_set_server_param>: period = 93.
+[11984.684269] Nima-HSF [3825]==> in function <api_set_server_param>: budget = 60.
+[11984.684270] Nima-HSF [3825]==> in function <api_set_server_param>: priority = 0.
+[11984.684271] Nima-HSF [3825]==> in function <api_set_server_param>: proc_id = 1.
+[11984.684272] Nima-HSF [3825]==> in function <api_set_server_param>: api call ends.
+[11984.684279] Nima-HSF [3825]==> in function <api_task_finish_job>: starts.
+[11984.684282] Nima-HSF [3825]==> in function <api_task_finish_job>: task_exec = 20, 0.
+[11984.684283] Nima-HSF [3825]==> in function <api_task_finish_job>: ends.
+[11984.724084] Nima-HSF [3835]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11984.724119] Nima-HSF [3835]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11984.788060] Nima-HSF [3851]==> in function <server_release_handler>: start--------------------------- = 2.
+[11984.788098] Nima-HSF [3851]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11984.864056] Nima-HSF [3870]==> in function <server_release_handler>: start--------------------------- = 0.
+[11984.864065] Nima-HSF [3870]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11985.028100] Nima-HSF [3911]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11985.028126] Nima-HSF [3911]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11985.044082] Nima-HSF [3915]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11985.044104] Nima-HSF [3915]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11985.160091] Nima-HSF [3944]==> in function <server_release_handler>: start--------------------------- = 2.
+[11985.160135] Nima-HSF [3944]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11985.224089] Nima-HSF [3960]==> in function <server_release_handler>: start--------------------------- = 0.
+[11985.224121] Nima-HSF [3960]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11985.388927] Nima-HSF [4001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11985.388969] Nima-HSF [4001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11985.400053] Nima-HSF [4004]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11985.400077] Nima-HSF [4004]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11985.404040] Nima-HSF [4005]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11985.404068] Nima-HSF [4005]==> in function <run_first_element>: ***task is_running in server = 6, 1.
+[11985.404069] Nima-HSF [4005]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11985.404170] Nima-HSF [4005]==> in function <api_detach_task>: starts!.
+[11985.404173] Nima-HSF [4005]==> in function <api_detach_task>: api call from task = 6.
+[11985.444052] Nima-HSF [4015]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11985.444081] Nima-HSF [4015]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11985.532052] Nima-HSF [4037]==> in function <server_release_handler>: start--------------------------- = 2.
+[11985.532094] Nima-HSF [4037]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11985.584081] Nima-HSF [4050]==> in function <server_release_handler>: start--------------------------- = 0.
+[11985.584112] Nima-HSF [4050]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11985.764094] Nima-HSF [4095]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11985.764127] Nima-HSF [4095]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11985.772089] Nima-HSF [4097]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11985.772113] Nima-HSF [4097]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11985.904093] Nima-HSF [4130]==> in function <server_release_handler>: start--------------------------- = 2.
+[11985.904140] Nima-HSF [4130]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11985.944074] Nima-HSF [4140]==> in function <server_release_handler>: start--------------------------- = 0.
+[11985.944117] Nima-HSF [4140]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11986.124087] Nima-HSF [4185]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11986.124116] Nima-HSF [4185]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11986.144048] Nima-HSF [4190]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11986.144055] Nima-HSF [4190]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11986.188403] Nima-HSF [4201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11986.188453] Nima-HSF [4201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11986.228087] Nima-HSF [4211]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11986.228111] Nima-HSF [4211]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11986.276097] Nima-HSF [4223]==> in function <server_release_handler>: start--------------------------- = 2.
+[11986.276128] Nima-HSF [4223]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11986.304084] Nima-HSF [4230]==> in function <server_release_handler>: start--------------------------- = 0.
+[11986.304116] Nima-HSF [4230]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11986.484092] Nima-HSF [4275]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11986.484139] Nima-HSF [4275]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11986.516065] Nima-HSF [4283]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11986.516092] Nima-HSF [4283]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11986.648047] Nima-HSF [4316]==> in function <server_release_handler>: start--------------------------- = 2.
+[11986.648085] Nima-HSF [4316]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11986.664091] Nima-HSF [4320]==> in function <server_release_handler>: start--------------------------- = 0.
+[11986.664125] Nima-HSF [4320]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11986.844081] Nima-HSF [4365]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11986.844125] Nima-HSF [4365]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11986.888049] Nima-HSF [4376]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11986.888073] Nima-HSF [4376]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11986.988066] Nima-HSF [4401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11986.988103] Nima-HSF [4401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11987.020897] Nima-HSF [4409]==> in function <server_release_handler>: start--------------------------- = 2.
+[11987.020907] Nima-HSF [4409]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11987.024053] Nima-HSF [4410]==> in function <server_release_handler>: start--------------------------- = 0.
+[11987.024056] Nima-HSF [4410]==> in function <server_context_switch>: stop active server and remove its budget deplition timer.
+[11987.024058] Nima-HSF [4410]==> in function <server_context_switch>: active server - new server = 1, 0.
+[11987.024059] Nima-HSF [4410]==> in function <server_context_switch>: total_budget = 229.
+[11987.024060] Nima-HSF [4410]==> in function <server_context_switch>: active_server->current_budget - consumed_budget = 1, 9.
+[11987.024066] Nima-HSF [4410]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11987.204100] Nima-HSF [4455]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11987.204138] Nima-HSF [4455]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11987.209005] Nima-HSF [4456]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11987.209010] Nima-HSF [4456]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11987.260094] Nima-HSF [4469]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11987.260123] Nima-HSF [4469]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11987.384087] Nima-HSF [4500]==> in function <server_release_handler>: start--------------------------- = 0.
+[11987.384124] Nima-HSF [4500]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11987.392083] Nima-HSF [4502]==> in function <server_release_handler>: start--------------------------- = 2.
+[11987.392112] Nima-HSF [4502]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11987.564090] Nima-HSF [4545]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11987.564119] Nima-HSF [4545]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11987.632051] Nima-HSF [4562]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11987.632080] Nima-HSF [4562]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11987.744095] Nima-HSF [4590]==> in function <server_release_handler>: start--------------------------- = 0.
+[11987.744132] Nima-HSF [4590]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11987.764051] Nima-HSF [4595]==> in function <server_release_handler>: start--------------------------- = 2.
+[11987.764081] Nima-HSF [4595]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11987.788050] Nima-HSF [4601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11987.788075] Nima-HSF [4601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11987.924102] Nima-HSF [4635]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11987.924158] Nima-HSF [4635]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11987.964092] Nima-HSF [4645]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11987.964128] Nima-HSF [4645]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11988.004082] Nima-HSF [4655]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11988.004124] Nima-HSF [4655]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11988.104090] Nima-HSF [4680]==> in function <server_release_handler>: start--------------------------- = 0.
+[11988.104139] Nima-HSF [4680]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11988.136086] Nima-HSF [4688]==> in function <server_release_handler>: start--------------------------- = 2.
+[11988.136122] Nima-HSF [4688]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11988.284063] Nima-HSF [4725]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11988.284087] Nima-HSF [4725]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11988.376085] Nima-HSF [4748]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11988.376109] Nima-HSF [4748]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11988.464084] Nima-HSF [4770]==> in function <server_release_handler>: start--------------------------- = 0.
+[11988.464113] Nima-HSF [4770]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11988.508082] Nima-HSF [4781]==> in function <server_release_handler>: start--------------------------- = 2.
+[11988.508112] Nima-HSF [4781]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11988.588053] Nima-HSF [4801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11988.588080] Nima-HSF [4801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11988.644082] Nima-HSF [4815]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11988.644110] Nima-HSF [4815]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11988.684083] Nima-HSF [4825]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11988.684107] Nima-HSF [4825]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11988.748076] Nima-HSF [4841]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11988.748100] Nima-HSF [4841]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11988.824089] Nima-HSF [4860]==> in function <server_release_handler>: start--------------------------- = 0.
+[11988.824097] Nima-HSF [4860]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11988.880063] Nima-HSF [4874]==> in function <server_release_handler>: start--------------------------- = 2.
+[11988.880096] Nima-HSF [4874]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11989.004084] Nima-HSF [4905]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11989.004112] Nima-HSF [4905]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11989.120087] Nima-HSF [4934]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11989.120112] Nima-HSF [4934]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11989.184083] Nima-HSF [4950]==> in function <server_release_handler>: start--------------------------- = 0.
+[11989.184114] Nima-HSF [4950]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11989.252084] Nima-HSF [4967]==> in function <server_release_handler>: start--------------------------- = 2.
+[11989.252117] Nima-HSF [4967]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11989.364055] Nima-HSF [4995]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11989.364083] Nima-HSF [4995]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11989.388054] Nima-HSF [5001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11989.388086] Nima-HSF [5001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11989.428087] Nima-HSF [5011]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11989.428111] Nima-HSF [5011]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11989.492086] Nima-HSF [5027]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11989.492111] Nima-HSF [5027]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11989.544085] Nima-HSF [5040]==> in function <server_release_handler>: start--------------------------- = 0.
+[11989.544114] Nima-HSF [5040]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11989.624084] Nima-HSF [5060]==> in function <server_release_handler>: start--------------------------- = 2.
+[11989.624113] Nima-HSF [5060]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11989.724049] Nima-HSF [5085]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11989.724073] Nima-HSF [5085]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11989.864109] Nima-HSF [5120]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11989.864147] Nima-HSF [5120]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11989.904084] Nima-HSF [5130]==> in function <server_release_handler>: start--------------------------- = 0.
+[11989.904114] Nima-HSF [5130]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11989.996103] Nima-HSF [5153]==> in function <server_release_handler>: start--------------------------- = 2.
+[11989.996146] Nima-HSF [5153]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11990.084061] Nima-HSF [5175]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11990.084092] Nima-HSF [5175]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11990.188052] Nima-HSF [5201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11990.188085] Nima-HSF [5201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11990.228074] Nima-HSF [5211]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11990.228098] Nima-HSF [5211]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11990.236081] Nima-HSF [5213]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11990.236104] Nima-HSF [5213]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11990.264085] Nima-HSF [5220]==> in function <server_release_handler>: start--------------------------- = 0.
+[11990.264113] Nima-HSF [5220]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11990.368045] Nima-HSF [5246]==> in function <server_release_handler>: start--------------------------- = 2.
+[11990.368057] Nima-HSF [5246]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11990.444091] Nima-HSF [5265]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11990.444118] Nima-HSF [5265]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11990.608084] Nima-HSF [5306]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11990.608110] Nima-HSF [5306]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11990.624083] Nima-HSF [5310]==> in function <server_release_handler>: start--------------------------- = 0.
+[11990.624112] Nima-HSF [5310]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11990.740088] Nima-HSF [5339]==> in function <server_release_handler>: start--------------------------- = 2.
+[11990.740117] Nima-HSF [5339]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11990.804088] Nima-HSF [5355]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11990.804091] Nima-HSF [5355]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11990.870219] ========== Log of App[0] ==========
+[11990.870219] 
+[11990.870223] Nima-HSF LOG 0: at[225] mu: 0, beta: 81, alpha: 65, T:90
+[11990.870224] Nima-HSF LOG 1: at[406] mu: 0, beta: 93, alpha: 65, T:90
+[11990.870225] Nima-HSF LOG 2: at[601] mu: 0, beta: 94, alpha: 65, T:90
+[11990.870226] Nima-HSF LOG 3: at[801] mu: 0, beta: 150, alpha: 65, T:90
+[11990.870227] Nima-HSF LOG 4: at[1035] mu: 0, beta: 105, alpha: 65, T:90
+[11990.870228] Nima-HSF LOG 5: at[1215] mu: 0, beta: 116, alpha: 65, T:90
+[11990.870229] Nima-HSF LOG 6: at[1401] mu: 0, beta: 117, alpha: 65, T:90
+[11990.870230] Nima-HSF LOG 7: at[1601] mu: 0, beta: 116, alpha: 65, T:90
+[11990.870231] Nima-HSF LOG 8: at[1845] mu: 0, beta: 174, alpha: 65, T:90
+[11990.870232] Nima-HSF LOG 9: at[2025] mu: 0, beta: 117, alpha: 65, T:90
+[11990.870233] Nima-HSF LOG 10: at[2205] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870234] Nima-HSF LOG 11: at[2401] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870235] Nima-HSF LOG 12: at[2601] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870236] Nima-HSF LOG 13: at[2835] mu: 0, beta: 177, alpha: 65, T:90
+[11990.870237] Nima-HSF LOG 14: at[3015] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870238] Nima-HSF LOG 15: at[3201] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870239] Nima-HSF LOG 16: at[3401] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870240] Nima-HSF LOG 17: at[3645] mu: 0, beta: 179, alpha: 65, T:90
+[11990.870241] Nima-HSF LOG 18: at[3825] mu: 0, beta: 118, alpha: 65, T:90
+[11990.870242] ====================================
+[11990.870242] 
+[11990.980087] Nima-HSF [5399]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11990.980118] Nima-HSF [5399]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11990.984072] Nima-HSF [5400]==> in function <server_release_handler>: start--------------------------- = 0.
+[11990.984082] Nima-HSF [5400]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11990.988055] Nima-HSF [5401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11990.988058] Nima-HSF [5401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11991.112084] Nima-HSF [5432]==> in function <server_release_handler>: start--------------------------- = 2.
+[11991.112120] Nima-HSF [5432]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11991.164084] Nima-HSF [5445]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11991.164112] Nima-HSF [5445]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11991.204073] Nima-HSF [5455]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11991.204076] Nima-HSF [5455]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11991.344079] Nima-HSF [5490]==> in function <server_release_handler>: start--------------------------- = 0.
+[11991.344110] Nima-HSF [5490]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11991.352080] Nima-HSF [5492]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11991.352104] Nima-HSF [5492]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11991.484087] Nima-HSF [5525]==> in function <server_release_handler>: start--------------------------- = 2.
+[11991.484121] Nima-HSF [5525]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11991.524082] Nima-HSF [5535]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11991.524110] Nima-HSF [5535]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11991.704087] Nima-HSF [5580]==> in function <server_release_handler>: start--------------------------- = 0.
+[11991.704095] Nima-HSF [5580]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11991.724062] Nima-HSF [5585]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11991.724086] Nima-HSF [5585]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11991.788063] Nima-HSF [5601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11991.788089] Nima-HSF [5601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11991.856087] Nima-HSF [5618]==> in function <server_release_handler>: start--------------------------- = 2.
+[11991.856129] Nima-HSF [5618]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11991.884081] Nima-HSF [5625]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11991.884109] Nima-HSF [5625]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11991.924085] Nima-HSF [5635]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11991.924109] Nima-HSF [5635]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11992.064092] Nima-HSF [5670]==> in function <server_release_handler>: start--------------------------- = 0.
+[11992.064130] Nima-HSF [5670]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11992.096093] Nima-HSF [5678]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11992.096120] Nima-HSF [5678]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11992.228092] Nima-HSF [5711]==> in function <server_release_handler>: start--------------------------- = 2.
+[11992.228125] Nima-HSF [5711]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11992.244093] Nima-HSF [5715]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11992.244116] Nima-HSF [5715]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11992.424084] Nima-HSF [5760]==> in function <server_release_handler>: start--------------------------- = 0.
+[11992.424113] Nima-HSF [5760]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11992.468081] Nima-HSF [5771]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11992.468105] Nima-HSF [5771]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11992.588064] Nima-HSF [5801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11992.588095] Nima-HSF [5801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11992.600070] Nima-HSF [5804]==> in function <server_release_handler>: start--------------------------- = 2.
+[11992.600102] Nima-HSF [5804]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11992.604080] Nima-HSF [5805]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11992.604087] Nima-HSF [5805]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11992.644051] Nima-HSF [5815]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11992.644076] Nima-HSF [5815]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11992.784085] Nima-HSF [5850]==> in function <server_release_handler>: start--------------------------- = 0.
+[11992.784119] Nima-HSF [5850]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11992.840098] Nima-HSF [5864]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11992.840137] Nima-HSF [5864]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11992.964108] Nima-HSF [5895]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11992.964144] Nima-HSF [5895]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11992.972124] Nima-HSF [5897]==> in function <server_release_handler>: start--------------------------- = 2.
+[11992.972154] Nima-HSF [5897]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11993.144074] Nima-HSF [5940]==> in function <server_release_handler>: start--------------------------- = 0.
+[11993.144110] Nima-HSF [5940]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11993.212076] Nima-HSF [5957]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11993.212099] Nima-HSF [5957]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11993.324057] Nima-HSF [5985]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11993.324087] Nima-HSF [5985]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11993.344088] Nima-HSF [5990]==> in function <server_release_handler>: start--------------------------- = 2.
+[11993.344118] Nima-HSF [5990]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11993.388064] Nima-HSF [6001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11993.388078] Nima-HSF [6001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11993.428097] Nima-HSF [6011]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11993.428100] Nima-HSF [6011]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11993.504092] Nima-HSF [6030]==> in function <server_release_handler>: start--------------------------- = 0.
+[11993.504127] Nima-HSF [6030]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11993.584085] Nima-HSF [6050]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11993.584089] Nima-HSF [6050]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11993.684090] Nima-HSF [6075]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11993.684124] Nima-HSF [6075]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11993.716090] Nima-HSF [6083]==> in function <server_release_handler>: start--------------------------- = 2.
+[11993.716121] Nima-HSF [6083]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11993.864101] Nima-HSF [6120]==> in function <server_release_handler>: start--------------------------- = 0.
+[11993.864114] Nima-HSF [6120]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11993.956060] Nima-HSF [6143]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11993.956064] Nima-HSF [6143]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11994.044044] Nima-HSF [6165]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11994.044054] Nima-HSF [6165]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11994.088684] Nima-HSF [6176]==> in function <server_release_handler>: start--------------------------- = 2.
+[11994.088731] Nima-HSF [6176]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11994.188045] Nima-HSF [6201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11994.188054] Nima-HSF [6201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11994.224055] Nima-HSF [6210]==> in function <server_release_handler>: start--------------------------- = 0.
+[11994.224059] Nima-HSF [6210]==> in function <server_context_switch>: stop active server and remove its budget deplition timer.
+[11994.224061] Nima-HSF [6210]==> in function <server_context_switch>: active server - new server = 1, 0.
+[11994.224062] Nima-HSF [6210]==> in function <server_context_switch>: total_budget = 319.
+[11994.224063] Nima-HSF [6210]==> in function <server_context_switch>: active_server->current_budget - consumed_budget = 1, 9.
+[11994.224070] Nima-HSF [6210]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11994.328094] Nima-HSF [6236]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11994.328099] Nima-HSF [6236]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11994.404100] Nima-HSF [6255]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11994.404149] Nima-HSF [6255]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11994.408099] Nima-HSF [6256]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11994.408101] Nima-HSF [6256]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11994.460098] Nima-HSF [6269]==> in function <server_release_handler>: start--------------------------- = 2.
+[11994.460160] Nima-HSF [6269]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11994.584100] Nima-HSF [6300]==> in function <server_release_handler>: start--------------------------- = 0.
+[11994.584145] Nima-HSF [6300]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11994.700085] Nima-HSF [6329]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11994.700110] Nima-HSF [6329]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11994.764087] Nima-HSF [6345]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11994.764111] Nima-HSF [6345]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11994.832088] Nima-HSF [6362]==> in function <server_release_handler>: start--------------------------- = 2.
+[11994.832130] Nima-HSF [6362]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11994.944084] Nima-HSF [6390]==> in function <server_release_handler>: start--------------------------- = 0.
+[11994.944124] Nima-HSF [6390]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11994.988054] Nima-HSF [6401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11994.988081] Nima-HSF [6401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11995.072087] Nima-HSF [6422]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11995.072113] Nima-HSF [6422]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11995.124072] Nima-HSF [6435]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11995.124103] Nima-HSF [6435]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11995.164081] Nima-HSF [6445]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11995.164105] Nima-HSF [6445]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11995.204082] Nima-HSF [6455]==> in function <server_release_handler>: start--------------------------- = 2.
+[11995.204118] Nima-HSF [6455]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11995.304089] Nima-HSF [6480]==> in function <server_release_handler>: start--------------------------- = 0.
+[11995.304120] Nima-HSF [6480]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11995.444088] Nima-HSF [6515]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11995.444112] Nima-HSF [6515]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11995.484074] Nima-HSF [6525]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11995.484096] Nima-HSF [6525]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11995.576044] Nima-HSF [6548]==> in function <server_release_handler>: start--------------------------- = 2.
+[11995.576074] Nima-HSF [6548]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11995.664085] Nima-HSF [6570]==> in function <server_release_handler>: start--------------------------- = 0.
+[11995.664118] Nima-HSF [6570]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11995.788055] Nima-HSF [6601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11995.788083] Nima-HSF [6601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11995.816881] Nima-HSF [6608]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11995.816922] Nima-HSF [6608]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11995.844071] Nima-HSF [6615]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11995.844100] Nima-HSF [6615]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11995.884074] Nima-HSF [6625]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11995.884098] Nima-HSF [6625]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11995.948079] Nima-HSF [6641]==> in function <server_release_handler>: start--------------------------- = 2.
+[11995.948123] Nima-HSF [6641]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11996.024061] Nima-HSF [6660]==> in function <server_release_handler>: start--------------------------- = 0.
+[11996.024098] Nima-HSF [6660]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11996.188058] Nima-HSF [6701]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11996.188088] Nima-HSF [6701]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11996.204115] Nima-HSF [6705]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11996.204154] Nima-HSF [6705]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11996.320086] Nima-HSF [6734]==> in function <server_release_handler>: start--------------------------- = 2.
+[11996.320117] Nima-HSF [6734]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11996.384051] Nima-HSF [6750]==> in function <server_release_handler>: start--------------------------- = 0.
+[11996.384081] Nima-HSF [6750]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11996.560088] Nima-HSF [6794]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11996.560113] Nima-HSF [6794]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11996.564081] Nima-HSF [6795]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11996.564083] Nima-HSF [6795]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11996.588064] Nima-HSF [6801]==> in function <server_release_handler>: start--------------------------- = 1.
+[11996.588096] Nima-HSF [6801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11996.628081] Nima-HSF [6811]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11996.628105] Nima-HSF [6811]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11996.692116] Nima-HSF [6827]==> in function <server_release_handler>: start--------------------------- = 2.
+[11996.692148] Nima-HSF [6827]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11996.744058] Nima-HSF [6840]==> in function <server_release_handler>: start--------------------------- = 0.
+[11996.744090] Nima-HSF [6840]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11996.924084] Nima-HSF [6885]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11996.924114] Nima-HSF [6885]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11996.932843] Nima-HSF [6887]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11996.932865] Nima-HSF [6887]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11997.064094] Nima-HSF [6920]==> in function <server_release_handler>: start--------------------------- = 2.
+[11997.064126] Nima-HSF [6920]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11997.104077] Nima-HSF [6930]==> in function <server_release_handler>: start--------------------------- = 0.
+[11997.104104] Nima-HSF [6930]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11997.284081] Nima-HSF [6975]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11997.284107] Nima-HSF [6975]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11997.304083] Nima-HSF [6980]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11997.304106] Nima-HSF [6980]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11997.388049] Nima-HSF [7001]==> in function <server_release_handler>: start--------------------------- = 1.
+[11997.388079] Nima-HSF [7001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11997.428871] Nima-HSF [7011]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11997.428900] Nima-HSF [7011]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11997.436074] Nima-HSF [7013]==> in function <server_release_handler>: start--------------------------- = 2.
+[11997.436102] Nima-HSF [7013]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11997.464051] Nima-HSF [7020]==> in function <server_release_handler>: start--------------------------- = 0.
+[11997.464083] Nima-HSF [7020]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11997.644083] Nima-HSF [7065]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11997.644107] Nima-HSF [7065]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11997.676081] Nima-HSF [7073]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11997.676104] Nima-HSF [7073]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11997.808093] Nima-HSF [7106]==> in function <server_release_handler>: start--------------------------- = 2.
+[11997.808138] Nima-HSF [7106]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11997.824086] Nima-HSF [7110]==> in function <server_release_handler>: start--------------------------- = 0.
+[11997.824118] Nima-HSF [7110]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11998.004103] Nima-HSF [7155]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11998.004147] Nima-HSF [7155]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11998.048109] Nima-HSF [7166]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11998.048142] Nima-HSF [7166]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11998.180105] Nima-HSF [7199]==> in function <server_release_handler>: start--------------------------- = 2.
+[11998.180138] Nima-HSF [7199]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11998.184095] Nima-HSF [7200]==> in function <server_release_handler>: start--------------------------- = 0.
+[11998.184103] Nima-HSF [7200]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11998.189128] Nima-HSF [7201]==> in function <server_release_handler>: start--------------------------- = 1.
+[11998.189134] Nima-HSF [7201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11998.364095] Nima-HSF [7245]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11998.364130] Nima-HSF [7245]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11998.404077] Nima-HSF [7255]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11998.404105] Nima-HSF [7255]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11998.420096] Nima-HSF [7259]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11998.420123] Nima-HSF [7259]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11998.544080] Nima-HSF [7290]==> in function <server_release_handler>: start--------------------------- = 0.
+[11998.544091] Nima-HSF [7290]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11998.552082] Nima-HSF [7292]==> in function <server_release_handler>: start--------------------------- = 2.
+[11998.552089] Nima-HSF [7292]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11998.724088] Nima-HSF [7335]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11998.724117] Nima-HSF [7335]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11998.792092] Nima-HSF [7352]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11998.792096] Nima-HSF [7352]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11998.904085] Nima-HSF [7380]==> in function <server_release_handler>: start--------------------------- = 0.
+[11998.904119] Nima-HSF [7380]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11998.924082] Nima-HSF [7385]==> in function <server_release_handler>: start--------------------------- = 2.
+[11998.924110] Nima-HSF [7385]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11998.988056] Nima-HSF [7401]==> in function <server_release_handler>: start--------------------------- = 1.
+[11998.988087] Nima-HSF [7401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11999.084096] Nima-HSF [7425]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11999.084132] Nima-HSF [7425]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11999.124081] Nima-HSF [7435]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11999.124104] Nima-HSF [7435]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11999.164088] Nima-HSF [7445]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11999.164116] Nima-HSF [7445]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11999.264106] Nima-HSF [7470]==> in function <server_release_handler>: start--------------------------- = 0.
+[11999.264140] Nima-HSF [7470]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11999.296083] Nima-HSF [7478]==> in function <server_release_handler>: start--------------------------- = 2.
+[11999.296130] Nima-HSF [7478]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11999.444094] Nima-HSF [7515]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11999.444122] Nima-HSF [7515]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11999.536087] Nima-HSF [7538]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11999.536112] Nima-HSF [7538]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11999.624069] Nima-HSF [7560]==> in function <server_release_handler>: start--------------------------- = 0.
+[11999.624098] Nima-HSF [7560]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[11999.668076] Nima-HSF [7571]==> in function <server_release_handler>: start--------------------------- = 2.
+[11999.668103] Nima-HSF [7571]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[11999.788051] Nima-HSF [7601]==> in function <server_release_handler>: start--------------------------- = 1.
+[11999.788078] Nima-HSF [7601]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[11999.804079] Nima-HSF [7605]==> in function <server_budget_handler>: start--------------------------- = 0.
+[11999.804120] Nima-HSF [7605]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[11999.844091] Nima-HSF [7615]==> in function <server_budget_handler>: start--------------------------- = 1.
+[11999.844118] Nima-HSF [7615]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[11999.908098] Nima-HSF [7631]==> in function <server_budget_handler>: start--------------------------- = 2.
+[11999.908125] Nima-HSF [7631]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[11999.984878] Nima-HSF [7650]==> in function <server_release_handler>: start--------------------------- = 0.
+[11999.984891] Nima-HSF [7650]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12000.040084] Nima-HSF [7664]==> in function <server_release_handler>: start--------------------------- = 2.
+[12000.040094] Nima-HSF [7664]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12000.164090] Nima-HSF [7695]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12000.164118] Nima-HSF [7695]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12000.280050] Nima-HSF [7724]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12000.280075] Nima-HSF [7724]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12000.344083] Nima-HSF [7740]==> in function <server_release_handler>: start--------------------------- = 0.
+[12000.344113] Nima-HSF [7740]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12000.412083] Nima-HSF [7757]==> in function <server_release_handler>: start--------------------------- = 2.
+[12000.412112] Nima-HSF [7757]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12000.524089] Nima-HSF [7785]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12000.524114] Nima-HSF [7785]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12000.588056] Nima-HSF [7801]==> in function <server_release_handler>: start--------------------------- = 1.
+[12000.588090] Nima-HSF [7801]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[12000.628215] Nima-HSF [7811]==> in function <server_budget_handler>: start--------------------------- = 1.
+[12000.628256] Nima-HSF [7811]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[12000.652083] Nima-HSF [7817]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12000.652107] Nima-HSF [7817]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12000.704062] Nima-HSF [7830]==> in function <server_release_handler>: start--------------------------- = 0.
+[12000.704093] Nima-HSF [7830]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12000.784085] Nima-HSF [7850]==> in function <server_release_handler>: start--------------------------- = 2.
+[12000.784121] Nima-HSF [7850]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12000.884076] Nima-HSF [7875]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12000.884100] Nima-HSF [7875]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12001.024086] Nima-HSF [7910]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12001.024116] Nima-HSF [7910]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12001.064089] Nima-HSF [7920]==> in function <server_release_handler>: start--------------------------- = 0.
+[12001.064121] Nima-HSF [7920]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12001.156083] Nima-HSF [7943]==> in function <server_release_handler>: start--------------------------- = 2.
+[12001.156112] Nima-HSF [7943]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12001.244079] Nima-HSF [7965]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12001.244105] Nima-HSF [7965]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12001.388054] Nima-HSF [8001]==> in function <server_release_handler>: start--------------------------- = 1.
+[12001.388089] Nima-HSF [8001]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[12001.396814] Nima-HSF [8003]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12001.396844] Nima-HSF [8003]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12001.424074] Nima-HSF [8010]==> in function <server_release_handler>: start--------------------------- = 0.
+[12001.424089] Nima-HSF [8010]==> in function <server_context_switch>: stop active server and remove its budget deplition timer.
+[12001.424090] Nima-HSF [8010]==> in function <server_context_switch>: active server - new server = 1, 0.
+[12001.424091] Nima-HSF [8010]==> in function <server_context_switch>: total_budget = 409.
+[12001.424092] Nima-HSF [8010]==> in function <server_context_switch>: active_server->current_budget - consumed_budget = 1, 9.
+[12001.424108] Nima-HSF [8010]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12001.528093] Nima-HSF [8036]==> in function <server_release_handler>: start--------------------------- = 2.
+[12001.528127] Nima-HSF [8036]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12001.604093] Nima-HSF [8055]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12001.604123] Nima-HSF [8055]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12001.608085] Nima-HSF [8056]==> in function <server_budget_handler>: start--------------------------- = 1.
+[12001.608088] Nima-HSF [8056]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[12001.768086] Nima-HSF [8096]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12001.768112] Nima-HSF [8096]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12001.784081] Nima-HSF [8100]==> in function <server_release_handler>: start--------------------------- = 0.
+[12001.784109] Nima-HSF [8100]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12001.900091] Nima-HSF [8129]==> in function <server_release_handler>: start--------------------------- = 2.
+[12001.900138] Nima-HSF [8129]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12001.964113] Nima-HSF [8145]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12001.964147] Nima-HSF [8145]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12002.140084] Nima-HSF [8189]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12002.140113] Nima-HSF [8189]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12002.144084] Nima-HSF [8190]==> in function <server_release_handler>: start--------------------------- = 0.
+[12002.144093] Nima-HSF [8190]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12002.188050] Nima-HSF [8201]==> in function <server_release_handler>: start--------------------------- = 1.
+[12002.188076] Nima-HSF [8201]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[12002.272094] Nima-HSF [8222]==> in function <server_release_handler>: start--------------------------- = 2.
+[12002.272124] Nima-HSF [8222]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12002.324042] Nima-HSF [8235]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12002.324049] Nima-HSF [8235]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12002.364090] Nima-HSF [8245]==> in function <server_budget_handler>: start--------------------------- = 1.
+[12002.364114] Nima-HSF [8245]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[12002.504093] Nima-HSF [8280]==> in function <server_release_handler>: start--------------------------- = 0.
+[12002.504137] Nima-HSF [8280]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12002.512054] Nima-HSF [8282]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12002.512078] Nima-HSF [8282]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12002.644103] Nima-HSF [8315]==> in function <server_release_handler>: start--------------------------- = 2.
+[12002.644144] Nima-HSF [8315]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12002.684090] Nima-HSF [8325]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12002.684116] Nima-HSF [8325]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12002.864847] Nima-HSF [8370]==> in function <server_release_handler>: start--------------------------- = 0.
+[12002.864858] Nima-HSF [8370]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12002.884082] Nima-HSF [8375]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12002.884106] Nima-HSF [8375]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12002.988059] Nima-HSF [8401]==> in function <server_release_handler>: start--------------------------- = 1.
+[12002.988090] Nima-HSF [8401]==> in function <server_release_handler>: finish--------------------------- = 1, 0.
+[12003.016088] Nima-HSF [8408]==> in function <server_release_handler>: start--------------------------- = 2.
+[12003.016129] Nima-HSF [8408]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12003.044088] Nima-HSF [8415]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12003.044120] Nima-HSF [8415]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12003.084054] Nima-HSF [8425]==> in function <server_budget_handler>: start--------------------------- = 1.
+[12003.084081] Nima-HSF [8425]==> in function <server_budget_handler>: finish--------------------------- = 1, 0.
+[12003.224086] Nima-HSF [8460]==> in function <server_release_handler>: start--------------------------- = 0.
+[12003.224096] Nima-HSF [8460]==> in function <server_release_handler>: finish--------------------------- = 0, 0.
+[12003.256084] Nima-HSF [8468]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12003.256111] Nima-HSF [8468]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12003.388051] Nima-HSF [8501]==> in function <server_release_handler>: start--------------------------- = 2.
+[12003.388081] Nima-HSF [8501]==> in function <server_release_handler>: finish--------------------------- = 2, 0.
+[12003.390334] Nima-HSF [8501]==> in function <api_stop>: control overhead = 0.
+[12003.390336] Nima-HSF [8501]==> in function <api_stop>: total overhead = 0.
+[12003.390337] Nima-HSF [8501]==> in function <api_stop>: app id = 0, 5477.
+[12003.390339] Nima-HSF [8501]==> in function <api_stop>: app id = 1, 4230.
+[12003.390340] Nima-HSF [8501]==> in function <api_stop>: app id = 2, 430.
+[12003.390341] Nima-HSF [8501]==> in function <api_stop>: api call!.
+[12003.390346] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390376] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390407] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390437] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390451] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390479] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.390525] Nima-HSF [8501]==> in function <api_detach_task>: ends!.
+[12003.408083] Nima-HSF [8505]==> in function <server_budget_handler>: start--------------------------- = 0.
+[12003.408085] Nima-HSF [8505]==> in function <server_budget_handler>: finish--------------------------- = 0, 0.
+[12003.584091] Nima-HSF [8550]==> in function <server_release_handler>: ******************===========================End of experiment=======================***************************.
+[12003.628087] Nima-HSF [8561]==> in function <server_budget_handler>: start--------------------------- = 2.
+[12003.628111] Nima-HSF [8561]==> in function <server_budget_handler>: finish--------------------------- = 2, 0.
+[12003.760085] Nima-HSF [8594]==> in function <server_release_handler>: ******************===========================End of experiment=======================***************************.
+[12003.788050] Nima-HSF [8601]==> in function <server_release_handler>: ******************===========================End of experiment=======================***************************.
+[12006.206692] ========== Log of App[0] ==========
+[12006.206692] 
+[12006.206696] Nima-HSF LOG 0: at[225] mu: 0, beta: 81, alpha: 65, T:90
+[12006.206697] Nima-HSF LOG 1: at[406] mu: 0, beta: 93, alpha: 65, T:90
+[12006.206698] Nima-HSF LOG 2: at[601] mu: 0, beta: 94, alpha: 65, T:90
+[12006.206699] Nima-HSF LOG 3: at[801] mu: 0, beta: 150, alpha: 65, T:90
+[12006.206700] Nima-HSF LOG 4: at[1035] mu: 0, beta: 105, alpha: 65, T:90
+[12006.206701] Nima-HSF LOG 5: at[1215] mu: 0, beta: 116, alpha: 65, T:90
+[12006.206702] Nima-HSF LOG 6: at[1401] mu: 0, beta: 117, alpha: 65, T:90
+[12006.206703] Nima-HSF LOG 7: at[1601] mu: 0, beta: 116, alpha: 65, T:90
+[12006.206704] Nima-HSF LOG 8: at[1845] mu: 0, beta: 174, alpha: 65, T:90
+[12006.206705] Nima-HSF LOG 9: at[2025] mu: 0, beta: 117, alpha: 65, T:90
+[12006.206706] Nima-HSF LOG 10: at[2205] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206707] Nima-HSF LOG 11: at[2401] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206708] Nima-HSF LOG 12: at[2601] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206709] Nima-HSF LOG 13: at[2835] mu: 0, beta: 177, alpha: 65, T:90
+[12006.206710] Nima-HSF LOG 14: at[3015] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206711] Nima-HSF LOG 15: at[3201] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206712] Nima-HSF LOG 16: at[3401] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206713] Nima-HSF LOG 17: at[3645] mu: 0, beta: 179, alpha: 65, T:90
+[12006.206714] Nima-HSF LOG 18: at[3825] mu: 0, beta: 118, alpha: 65, T:90
+[12006.206715] ====================================
+[12006.206715] 

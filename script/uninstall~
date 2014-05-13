@@ -1,0 +1,8 @@
+#!/bin/sh
+module="adhiersched"
+device="hsf"
+
+/sbin/rmmod $module $*
+
+
+rm -f /dev/${device}

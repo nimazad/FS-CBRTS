@@ -1,0 +1,7 @@
+#make for sim
+
+all: 
+	@gcc -o sim sim.c 
+	
+clean:
+	rm -f  sim *~ 

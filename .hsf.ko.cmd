@@ -1,0 +1,1 @@
+cmd_/home/nima/AdHierSched/hsf.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.8.2/scripts/module-common.lds --build-id  -o /home/nima/AdHierSched/hsf.ko /home/nima/AdHierSched/hsf.o /home/nima/AdHierSched/hsf.mod.o

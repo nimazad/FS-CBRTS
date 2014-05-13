@@ -1,0 +1,1 @@
+cmd_/home/nima/Dropbox/AdHierSched/AdHierSched.ko := ld -r -m elf_x86_64 -T /home/nima/Downloads/linux-3.13.7/scripts/module-common.lds --build-id  -o /home/nima/Dropbox/AdHierSched/AdHierSched.ko /home/nima/Dropbox/AdHierSched/AdHierSched.o /home/nima/Dropbox/AdHierSched/AdHierSched.mod.o

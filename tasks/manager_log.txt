@@ -1,0 +1,5 @@
+have to create[0][0]period: 90 , budget: 54
+have to create[3][0]period: 200 , budget: 80
+have to create[0][1]period: 90 , budget: 4
+have to create[1][1]period: 90 , budget: 64
+have to create[2][1]period: 200 , budget: 10

@@ -1,0 +1,8 @@
+#!/bin/sh
+module="AdHierSched"
+device="AdHierSched"
+
+/sbin/rmmod $module $*
+
+
+rm -f /dev/${device}

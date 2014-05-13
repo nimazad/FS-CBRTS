@@ -1,0 +1,6 @@
+ :> /var/log/kern.log 
+
+
+
+sudo sh -c 'echo options netconsole netconsole=6666@10.132.136.502/eth0,514@130.243.88.236/00:05:9A:3C:7A:00 > /etc/modprobe.d/netconsole.conf'
+      	           

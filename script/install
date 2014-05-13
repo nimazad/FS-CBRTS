@@ -1,0 +1,37 @@
+#!/bin/sh
+module="AdHierSched"
+device="AdHierSched"
+group="root"
+mode="666"
+version=$(uname -r)
+userinc="/usr/include/AdHierSched"
+kerninc="/usr/src/kernels/$version/include/AdHierSched"
+
+cd ..
+make clean
+make
+# invoke insmod with all arguments we got
+# and use a pathname, as newer modutils dont like in . by default
+/sbin/insmod $module.ko $* || exit 1
+
+# remove stale nodes 
+rm -f /dev/${device}*
+
+# make a node
+major=$(awk "\$2==\"AdHierSched\" {print \$1}" /proc/devices)
+mknod /dev/${device} c $major 0;
+chgrp $group /dev/${device};
+chmod $mode  /dev/${device};
+
+
+# make include directories for AdHierSched.
+if [ ! -d $kerninc ]; then
+	mkdir -p $kerninc
+fi
+if [ ! -d $userinc ]; then
+	mkdir -p $userinc
+fi
+cd library
+# copy header files.
+cp -f ./hsf_api.h $userinc/hsf_api.h
+chmod 644 $userinc/hsf_api.h
